@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Browser Sync Space",
+  "version": "1.0",
+  "description": "Browser Sync Space is a browser extension that allows you to sync your browser tabs and bookmarks across multiple devices.",
+  "permissions": [
+    "storage",
+    "scripting",
+    "bookmarks"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png",
+    "default_title": "Browser Sync Space"
+  }
+}

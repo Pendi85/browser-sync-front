@@ -1,0 +1,3065 @@
+{
+   "checksum": "46252e8c17b186608dcc37778a06fb16",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13339894691000000",
+               "date_last_used": "13389902368926940",
+               "guid": "33f6c809-cae9-4797-bb1c-c12cb488265a",
+               "id": "6",
+               "name": "Gmail",
+               "type": "url",
+               "url": "https://mail.google.com/mail/u/0/?hl=fr#inbox"
+            }, {
+               "date_added": "13340471764000000",
+               "date_last_used": "13389284060422659",
+               "guid": "e38ef43d-6941-41bc-9d4e-2e9879ecb8cf",
+               "id": "9",
+               "name": "Google",
+               "type": "url",
+               "url": "https://www.google.com/"
+            }, {
+               "date_added": "13339894817000000",
+               "date_last_used": "13388350988357341",
+               "guid": "4ca744f1-5523-4d0c-b449-d3b9bcda07b5",
+               "id": "7",
+               "name": "Google Maps",
+               "type": "url",
+               "url": "https://www.google.com/maps/@46.9068627,-1.1419814,15z?authuser=0&entry=ttu"
+            }, {
+               "date_added": "13339894823000000",
+               "date_last_used": "13386694021119203",
+               "guid": "3a7cccef-e22b-4d2a-a543-b5f2b72e92e4",
+               "id": "8",
+               "name": "Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/my-drive"
+            }, {
+               "date_added": "13360108429000000",
+               "date_last_used": "13389994407462995",
+               "guid": "c51c88a8-88a4-46a6-a535-77b49d2081cc",
+               "id": "10",
+               "name": "API et services – API et services – MSPR DATA RAW FILES – Console Google Cloud",
+               "type": "url",
+               "url": "https://console.cloud.google.com/apis/dashboard?pli=1&project=mspr-data-raw-files"
+            } ],
+            "date_added": "13383748412461121",
+            "date_last_used": "0",
+            "date_modified": "13389871910736995",
+            "guid": "b0be6add-68cc-43c4-a043-c31d907f6f2c",
+            "id": "5",
+            "name": "Google",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13366938642000000",
+               "date_last_used": "13389989917282816",
+               "guid": "6e813757-031a-4d78-8d3f-1975ee1dabd7",
+               "id": "12",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13163102984000000",
+               "date_last_used": "13389979236798359",
+               "guid": "2cc079cf-3175-4f2e-9ecb-8acebc97e765",
+               "id": "13",
+               "name": "Twitch",
+               "type": "url",
+               "url": "https://www.twitch.tv/"
+            }, {
+               "date_added": "13338297847000000",
+               "date_last_used": "13389902694378581",
+               "guid": "6bdb3833-6136-4ce1-a44e-64b8c099a590",
+               "id": "14",
+               "name": "Crunchyroll",
+               "type": "url",
+               "url": "https://www.crunchyroll.com/fr"
+            }, {
+               "date_added": "13329242018000000",
+               "date_last_used": "13389956971940262",
+               "guid": "ae748a79-019e-49d0-a60b-389111c699c1",
+               "id": "15",
+               "name": "Scan",
+               "type": "url",
+               "url": "https://fmteam.fr/"
+            }, {
+               "date_added": "13264549281000000",
+               "date_last_used": "13389706610981930",
+               "guid": "17aa2a4c-cd39-4e27-bb80-e17fb32dbd47",
+               "id": "16",
+               "name": "ADN | Anime streaming en VOSTFR et VF",
+               "type": "url",
+               "url": "https://animedigitalnetwork.fr/video/?distribution=free"
+            }, {
+               "date_added": "13360721743000000",
+               "date_last_used": "13388433400556159",
+               "guid": "b8d09339-43e6-4588-83bc-c5240d0a6fc6",
+               "id": "17",
+               "name": "Netflix",
+               "type": "url",
+               "url": "https://www.netflix.com/browse"
+            } ],
+            "date_added": "13383748412461290",
+            "date_last_used": "0",
+            "date_modified": "13386335238638997",
+            "guid": "f0e92edb-2195-40b3-90e5-91f081accc25",
+            "id": "11",
+            "name": "Divertissement",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13339894841000000",
+               "date_last_used": "13384261176300181",
+               "guid": "b6a85b14-85f7-485d-b8fb-4106ee774eab",
+               "id": "19",
+               "name": "ChatGPT",
+               "type": "url",
+               "url": "https://chat.openai.com/"
+            }, {
+               "date_added": "13369081160000000",
+               "date_last_used": "13383772421908050",
+               "guid": "fdb416fb-faa5-435a-b605-04c4fddf7904",
+               "id": "26",
+               "name": "Perplexity",
+               "type": "url",
+               "url": "https://www.perplexity.ai/"
+            }, {
+               "date_added": "13340300604000000",
+               "date_last_used": "0",
+               "guid": "7b4613e6-68ba-4d0b-987f-9ea99147a8b3",
+               "id": "20",
+               "name": "Dribble",
+               "type": "url",
+               "url": "https://dribbble.com/"
+            }, {
+               "date_added": "13327068248000000",
+               "date_last_used": "0",
+               "guid": "c093e29b-8d5d-462e-a7d8-eaeb1b84e54d",
+               "id": "21",
+               "name": "DeepL Traduction ",
+               "type": "url",
+               "url": "https://www.deepl.com/fr/translator"
+            }, {
+               "date_added": "13340551678000000",
+               "date_last_used": "0",
+               "guid": "a352074e-6290-411b-bf85-c67f844dbf84",
+               "id": "22",
+               "name": "Feedly",
+               "type": "url",
+               "url": "https://feedly.com/i/my"
+            }, {
+               "date_added": "13340787325000000",
+               "date_last_used": "0",
+               "guid": "9ccfa9f6-7c9e-4690-899a-37fcd7926b45",
+               "id": "23",
+               "name": "Outlook",
+               "type": "url",
+               "url": "https://outlook.office.com/mail/"
+            }, {
+               "date_added": "13342608102000000",
+               "date_last_used": "0",
+               "guid": "8e6462e5-da1c-4a89-89e5-b7081b070b6e",
+               "id": "24",
+               "name": "Coolors",
+               "type": "url",
+               "url": "https://coolors.co/"
+            }, {
+               "date_added": "13363196131000000",
+               "date_last_used": "0",
+               "guid": "986a6c89-0c42-49a4-9925-0697bb6cd219",
+               "id": "25",
+               "name": "Online Gantt Chart Software",
+               "type": "url",
+               "url": "https://www.onlinegantt.com/#/gantt/cloud"
+            } ],
+            "date_added": "13383748412461340",
+            "date_last_used": "0",
+            "date_modified": "13383959233445133",
+            "guid": "1aab71a9-7aaa-423e-8b32-7e1ecf8b6abb",
+            "id": "18",
+            "name": "Outils",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13335909753000000",
+                        "date_last_used": "0",
+                        "guid": "075f4ad9-9857-47e0-ad5d-8955462a8530",
+                        "id": "31",
+                        "name": "Les Vieilles Charrues",
+                        "type": "url",
+                        "url": "https://www.vieillescharrues.asso.fr/"
+                     }, {
+                        "date_added": "13335909760000000",
+                        "date_last_used": "0",
+                        "guid": "4089746e-7b1f-45ab-9e0b-df958da3538f",
+                        "id": "32",
+                        "name": "Festival de Poupet",
+                        "type": "url",
+                        "url": "https://www.festival-poupet.com/"
+                     }, {
+                        "date_added": "13335909768000000",
+                        "date_last_used": "0",
+                        "guid": "4bf31e9d-fc2a-4331-a073-bf94f8e244df",
+                        "id": "33",
+                        "name": "Francofolies",
+                        "type": "url",
+                        "url": "https://www.francofolies.fr/"
+                     }, {
+                        "date_added": "13340285484000000",
+                        "date_last_used": "0",
+                        "guid": "2eeb0575-cf3f-4d23-a20f-e2989b8738f0",
+                        "id": "34",
+                        "name": "LES ARDENTES 2023",
+                        "type": "url",
+                        "url": "https://lesardentes.be/"
+                     } ],
+                     "date_added": "13383748412461414",
+                     "date_last_used": "0",
+                     "date_modified": "0",
+                     "guid": "5d0aaad9-1b01-43fc-97d3-a10ffa18fae7",
+                     "id": "30",
+                     "name": "Exemples Festivals",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13337121824000000",
+                     "date_last_used": "0",
+                     "guid": "f134ab3d-9893-4614-9d6e-420249341a6e",
+                     "id": "35",
+                     "name": "Pampl'up Click'up",
+                     "type": "url",
+                     "url": "https://app.clickup.com/9012015086/home"
+                  } ],
+                  "date_added": "13383748412461410",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "88cbd228-3018-4be4-af8f-74a1ab35ffca",
+                  "id": "29",
+                  "name": "Pampl'up",
+                  "type": "folder"
+               } ],
+               "date_added": "13383748412461406",
+               "date_last_used": "0",
+               "date_modified": "13383748412461406",
+               "guid": "173f7b70-4531-4e90-96c2-428aec2e529a",
+               "id": "28",
+               "name": "Projets Perso",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13332538764000000",
+                  "date_last_used": "0",
+                  "guid": "17bc39f4-4e7e-4ed2-ba7a-f016d010380d",
+                  "id": "37",
+                  "name": "JS Structures",
+                  "type": "url",
+                  "url": "https://github.com/trekhleb/javascript-algorithms"
+               }, {
+                  "date_added": "13332538668000000",
+                  "date_last_used": "0",
+                  "guid": "f37a663f-a77c-422a-8f4b-06b107970fb6",
+                  "id": "38",
+                  "name": "Preparer les interviews tech",
+                  "type": "url",
+                  "url": "https://github.com/yangshun/tech-interview-handbook"
+               }, {
+                  "date_added": "13332538687000000",
+                  "date_last_used": "0",
+                  "guid": "894629e5-299b-4a27-adcd-3edf8de36d9e",
+                  "id": "39",
+                  "name": "Clean Code JS",
+                  "type": "url",
+                  "url": "https://github.com/ryanmcdermott/clean-code-javascript"
+               }, {
+                  "date_added": "13332538780000000",
+                  "date_last_used": "0",
+                  "guid": "4205a74d-6c7b-49ec-8c38-4fe8f2f2bb42",
+                  "id": "40",
+                  "name": "Node Best Practices",
+                  "type": "url",
+                  "url": "https://github.com/goldbergyoni/nodebestpractices"
+               } ],
+               "date_added": "13383748412461458",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "3d840d41-6a29-4925-ba89-853553949e85",
+               "id": "36",
+               "name": "Meilleurs Pratiques",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13313600634000000",
+                  "date_last_used": "0",
+                  "guid": "410ae54e-4485-4d02-b199-d5e31a369f37",
+                  "id": "42",
+                  "name": "Actix",
+                  "type": "url",
+                  "url": "https://actix.rs/"
+               }, {
+                  "date_added": "13326810271000000",
+                  "date_last_used": "0",
+                  "guid": "34acde64-46c7-4501-8caf-1ec61a7eb8c8",
+                  "id": "43",
+                  "name": "crates.io: Rust Package Registry",
+                  "type": "url",
+                  "url": "https://crates.io/"
+               }, {
+                  "date_added": "13326810282000000",
+                  "date_last_used": "0",
+                  "guid": "059937cf-33bf-45aa-a1ea-59743eaf13c9",
+                  "id": "44",
+                  "name": "The Rust Programming Language",
+                  "type": "url",
+                  "url": "https://doc.rust-lang.org/book/title-page.html"
+               }, {
+                  "date_added": "13327093511000000",
+                  "date_last_used": "0",
+                  "guid": "22ae70c2-02f4-449a-a831-2f109380e6f8",
+                  "id": "45",
+                  "name": "Tera - Templates Engine",
+                  "type": "url",
+                  "url": "https://tera.netlify.app/docs/#getting-started"
+               }, {
+                  "date_added": "13327195486000000",
+                  "date_last_used": "0",
+                  "guid": "cc4c3273-ed99-4507-85a0-20e297f483d1",
+                  "id": "46",
+                  "name": "Cargo Watch Run",
+                  "type": "url",
+                  "url": "https://actix.rs/docs/autoreload/"
+               }, {
+                  "date_added": "13327199554000000",
+                  "date_last_used": "0",
+                  "guid": "94d3115d-0706-4ffb-81d9-fa6d22c078ce",
+                  "id": "47",
+                  "name": "Sycamore",
+                  "type": "url",
+                  "url": "https://sycamore-rs.netlify.app/"
+               }, {
+                  "date_added": "13327199608000000",
+                  "date_last_used": "0",
+                  "guid": "51eb2131-7544-4ece-a89a-f3d954f78b6e",
+                  "id": "48",
+                  "name": "Yew (SPA)",
+                  "type": "url",
+                  "url": "https://yew.rs/docs/getting-started/introduction"
+               }, {
+                  "date_added": "13349057086000000",
+                  "date_last_used": "0",
+                  "guid": "9bef8224-5d06-4986-91cc-da414b924e8c",
+                  "id": "49",
+                  "name": "Learn to become a Rust developer",
+                  "type": "url",
+                  "url": "https://roadmap.sh/rust"
+               }, {
+                  "date_added": "13350082095000000",
+                  "date_last_used": "0",
+                  "guid": "1071815e-989b-425e-a6a9-35b885ac50d6",
+                  "id": "50",
+                  "name": "Bevy",
+                  "type": "url",
+                  "url": "https://bevyengine.org/learn/book/getting-started/setup/"
+               }, {
+                  "date_added": "13350083798000000",
+                  "date_last_used": "0",
+                  "guid": "2bbc7585-a774-4f7d-b12e-d0fd38079304",
+                  "id": "51",
+                  "name": "Rust Adventure",
+                  "type": "url",
+                  "url": "https://www.rustadventure.dev/"
+               }, {
+                  "date_added": "13350177778000000",
+                  "date_last_used": "0",
+                  "guid": "b412f2d9-3620-421e-92a9-7796ed00fc3c",
+                  "id": "52",
+                  "name": "bevy doc",
+                  "type": "url",
+                  "url": "https://docs.rs/bevy/latest/bevy/"
+               }, {
+                  "date_added": "13350177834000000",
+                  "date_last_used": "0",
+                  "guid": "6fadd008-9f74-40fd-ad0e-6a099114f382",
+                  "id": "53",
+                  "name": "Unofficial Bevy Cheat Book",
+                  "type": "url",
+                  "url": "https://bevy-cheatbook.github.io/"
+               }, {
+                  "date_added": "13350177980000000",
+                  "date_last_used": "0",
+                  "guid": "81dd1bca-2ae7-4d88-bd89-10df3030720b",
+                  "id": "54",
+                  "name": "Bevy Examples",
+                  "type": "url",
+                  "url": "https://github.com/bevyengine/bevy/tree/latest/examples/animation"
+               }, {
+                  "date_added": "13350177999000000",
+                  "date_last_used": "0",
+                  "guid": "9d0485e8-a732-458a-b025-eab1e578161a",
+                  "id": "55",
+                  "name": "Bevy Examples in WebGL2",
+                  "type": "url",
+                  "url": "https://bevyengine.org/examples/"
+               }, {
+                  "date_added": "13350179876000000",
+                  "date_last_used": "0",
+                  "guid": "2217a56c-82d3-44ff-9c79-b3d1756873c1",
+                  "id": "56",
+                  "name": "Breakout Example",
+                  "type": "url",
+                  "url": "https://bevyengine.org/examples-webgpu/Games/breakout/"
+               }, {
+                  "date_added": "13351645919000000",
+                  "date_last_used": "0",
+                  "guid": "1297627a-e1d6-420c-be45-0ba3813f69c6",
+                  "id": "57",
+                  "name": "Design Pattern",
+                  "type": "url",
+                  "url": "https://rust-unofficial.github.io/patterns/"
+               }, {
+                  "date_added": "13356225357000000",
+                  "date_last_used": "0",
+                  "guid": "05c7384c-0724-4206-b763-99989605021d",
+                  "id": "58",
+                  "name": "Project Setup - GUI development with Rust and GTK 4",
+                  "type": "url",
+                  "url": "https://gtk-rs.org/gtk4-rs/stable/latest/book/project_setup.html"
+               } ],
+               "date_added": "13383748412461502",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "56ea83e3-0017-4d33-824c-7e4375782945",
+               "id": "41",
+               "name": "Rust",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13357783471000000",
+                  "date_last_used": "0",
+                  "guid": "06a96e2f-c092-4ff6-91e3-be1b23ef3d02",
+                  "id": "60",
+                  "name": "Official Doc",
+                  "type": "url",
+                  "url": "https://developer.wordpress.org/themes/getting-started/"
+               }, {
+                  "date_added": "13358556916000000",
+                  "date_last_used": "0",
+                  "guid": "d8659037-54c9-41cd-9d9b-3f21ea3b9a49",
+                  "id": "61",
+                  "name": "Débogage de WordPress",
+                  "type": "url",
+                  "url": "https://fr.wordpress.org/support/article/debugging-in-wordpress/"
+               }, {
+                  "date_added": "13358889616000000",
+                  "date_last_used": "0",
+                  "guid": "885b56ae-cd25-4d27-b11d-d9f4bb15a52b",
+                  "id": "62",
+                  "name": "Adding Tailwind CSS to New and Existing WordPress Themes | CSS-Tricks - CSS-Tricks",
+                  "type": "url",
+                  "url": "https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/"
+               }, {
+                  "date_added": "13358901863000000",
+                  "date_last_used": "0",
+                  "guid": "c0c093b4-eefc-43be-8c2e-58f64f4de22a",
+                  "id": "63",
+                  "name": "Set up WordPress With Docker for Local Development - Code Concisely",
+                  "type": "url",
+                  "url": "https://www.codeconcisely.com/posts/docker-wordpress/"
+               }, {
+                  "date_added": "13358903323000000",
+                  "date_last_used": "0",
+                  "guid": "90a9e8da-5081-4a98-9675-4067c5df170e",
+                  "id": "64",
+                  "name": "How to develop PHP inside a Docker Container using VS Code | DEVSENSE Blog",
+                  "type": "url",
+                  "url": "https://blog.devsense.com/2022/develop-php-in-docker"
+               }, {
+                  "date_added": "13359141165000000",
+                  "date_last_used": "0",
+                  "guid": "9a7d7931-875f-41ea-afcb-bdd811ee7e0c",
+                  "id": "65",
+                  "name": "_tw",
+                  "type": "url",
+                  "url": "https://underscoretw.com/"
+               } ],
+               "date_added": "13383748412461665",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "4299efeb-9148-460f-8408-3116b644355c",
+               "id": "59",
+               "name": "Wordpress",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13358336458000000",
+                  "date_last_used": "0",
+                  "guid": "73ace4db-b087-4b51-a27a-1a841fab0df4",
+                  "id": "67",
+                  "name": "How to Deploy a Wordpress Website onto IPFS",
+                  "type": "url",
+                  "url": "https://blog.fleek.co/posts/wordpress+fleek"
+               }, {
+                  "date_added": "13352514317000000",
+                  "date_last_used": "0",
+                  "guid": "ee13cb00-e99e-424c-8d22-5983ef6092e5",
+                  "id": "68",
+                  "name": "Fleek: Build on the New Internet",
+                  "type": "url",
+                  "url": "https://fleek.co/"
+               }, {
+                  "date_added": "13358336488000000",
+                  "date_last_used": "0",
+                  "guid": "fbe727ba-c186-411d-91b4-e2a9cbb68f52",
+                  "id": "69",
+                  "name": "wordpress-fleek-example",
+                  "type": "url",
+                  "url": "https://github.com/SamueleA/wordpress-fleek/tree/master"
+               }, {
+                  "date_added": "13358429687000000",
+                  "date_last_used": "0",
+                  "guid": "bc0a5b8f-8584-4105-b8c3-45e77d5958a6",
+                  "id": "70",
+                  "name": "Create a Decentralized Website",
+                  "type": "url",
+                  "url": "https://support.ens.domains/en/articles/7890637-create-a-decentralized-website"
+               }, {
+                  "date_added": "13358431393000000",
+                  "date_last_used": "0",
+                  "guid": "78b7e461-63ce-4e42-bac8-b6df0230973f",
+                  "id": "71",
+                  "name": "Upload Your Website to IPFS Guide | Unstoppable Domains Developer Portal",
+                  "type": "url",
+                  "url": "https://docs.unstoppabledomains.com/d-websites/upload-ipfs/"
+               }, {
+                  "date_added": "13358431667000000",
+                  "date_last_used": "0",
+                  "guid": "8919754b-d4fc-49bb-b4ba-95edc3316077",
+                  "id": "72",
+                  "name": "Deployment – Spheron",
+                  "type": "url",
+                  "url": "https://docs.spheron.network/static/deployment/logs"
+               } ],
+               "date_added": "13383748412461735",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "8a5462b8-cc33-4304-8162-4149923d2ff8",
+               "id": "66",
+               "name": "Fleek",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13361729973000000",
+                  "date_last_used": "0",
+                  "guid": "98f74a24-f0ec-4676-bc8e-062f0e02a627",
+                  "id": "74",
+                  "name": "Root me",
+                  "type": "url",
+                  "url": "https://www.root-me.org/?page=news&lang=fr"
+               }, {
+                  "date_added": "13361729957000000",
+                  "date_last_used": "0",
+                  "guid": "53400487-55b5-4d1a-ace2-6bd95aa349d9",
+                  "id": "75",
+                  "name": "Beeceptor",
+                  "type": "url",
+                  "url": "https://beeceptor.com/"
+               } ],
+               "date_added": "13383748412461799",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "d1f92234-e001-4bbb-8e58-2731404cf540",
+               "id": "73",
+               "name": "Cyber",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13348171710000000",
+                  "date_last_used": "0",
+                  "guid": "a29f75cd-e056-4c1c-82ef-ba95c668cb1a",
+                  "id": "77",
+                  "name": "Plant Communicator with the Arduino IoT Bundle",
+                  "type": "url",
+                  "url": "https://docs.arduino.cc/tutorials/iot-bundle/plant-communicator"
+               }, {
+                  "date_added": "13348171728000000",
+                  "date_last_used": "0",
+                  "guid": "3d0feb23-7e51-4b17-87bd-c00a01f3ed31",
+                  "id": "78",
+                  "name": "The Nerd with Arduino IoT Bundle",
+                  "type": "url",
+                  "url": "https://docs.arduino.cc/tutorials/iot-bundle/the-nerd"
+               }, {
+                  "date_added": "13348172138000000",
+                  "date_last_used": "0",
+                  "guid": "18816be3-ec9d-4d01-bc2d-f5b6e538cc08",
+                  "id": "79",
+                  "name": "Introducing Arduino’s IoT Bundle and what it means for you",
+                  "type": "url",
+                  "url": "https://blog.arduino.cc/2022/11/24/introducing-arduinos-iot-bundle-and-what-it-means-for-you/"
+               }, {
+                  "date_added": "13348172955000000",
+                  "date_last_used": "0",
+                  "guid": "409171b4-0e84-4dea-a02c-f408cadbc5e2",
+                  "id": "80",
+                  "name": "Home",
+                  "type": "url",
+                  "url": "https://app.arduino.cc/"
+               } ],
+               "date_added": "13383748412461815",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "a9219f13-f3df-4d1e-a484-a9fc3731415c",
+               "id": "76",
+               "name": "Arduino",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13363194789000000",
+                  "date_last_used": "0",
+                  "guid": "5e5ab1d0-08ee-44f4-8264-b8b85049c2ec",
+                  "id": "82",
+                  "name": "TYPO3",
+                  "type": "url",
+                  "url": "https://typo3.fr/"
+               }, {
+                  "date_added": "13363194812000000",
+                  "date_last_used": "0",
+                  "guid": "da750875-5357-4085-af00-e092c670d9c3",
+                  "id": "83",
+                  "name": "Sitecore",
+                  "type": "url",
+                  "url": "https://www.sitecore.com/"
+               }, {
+                  "date_added": "13363194838000000",
+                  "date_last_used": "0",
+                  "guid": "068e062b-5290-42be-b82c-4ebd3bea8e40",
+                  "id": "84",
+                  "name": "Wagtail CMS",
+                  "type": "url",
+                  "url": "https://wagtail.org/"
+               }, {
+                  "date_added": "13363194858000000",
+                  "date_last_used": "0",
+                  "guid": "cc4ca885-ebea-4132-956a-75a8d58998e0",
+                  "id": "85",
+                  "name": "Statamic",
+                  "type": "url",
+                  "url": "https://statamic.com/"
+               }, {
+                  "date_added": "13363194871000000",
+                  "date_last_used": "0",
+                  "guid": "8eca57f3-68d6-42a3-b0d7-38c5333782d2",
+                  "id": "86",
+                  "name": "Content Stack",
+                  "type": "url",
+                  "url": "https://www.contentstack.com/"
+               }, {
+                  "date_added": "13363194886000000",
+                  "date_last_used": "0",
+                  "guid": "d5f1803a-0df7-464d-bb52-6501c5675e60",
+                  "id": "87",
+                  "name": "Strapi",
+                  "type": "url",
+                  "url": "https://strapi.io/"
+               }, {
+                  "date_added": "13363194915000000",
+                  "date_last_used": "0",
+                  "guid": "3579e8e0-a181-4606-9fb8-60e59c39a246",
+                  "id": "88",
+                  "name": "Contao Open Source CMS",
+                  "type": "url",
+                  "url": "https://contao.org/fr/"
+               }, {
+                  "date_added": "13363194922000000",
+                  "date_last_used": "0",
+                  "guid": "ba358194-f33d-461e-aaaa-c976071b41e3",
+                  "id": "89",
+                  "name": "October",
+                  "type": "url",
+                  "url": "https://octobercms.com/"
+               }, {
+                  "date_added": "13363194945000000",
+                  "date_last_used": "0",
+                  "guid": "3f013bc9-c82f-4797-835a-0df325c6e061",
+                  "id": "90",
+                  "name": "DNN",
+                  "type": "url",
+                  "url": "https://www.dnnsoftware.com/"
+               }, {
+                  "date_added": "13363194962000000",
+                  "date_last_used": "0",
+                  "guid": "3e3c12e7-3ba4-4a0a-b8ca-e493dabaf760",
+                  "id": "91",
+                  "name": "Umbraco",
+                  "type": "url",
+                  "url": "https://umbraco.com/"
+               }, {
+                  "date_added": "13363194974000000",
+                  "date_last_used": "0",
+                  "guid": "bda34314-816e-4a0c-9700-ccebf844b494",
+                  "id": "92",
+                  "name": "Craft CMS",
+                  "type": "url",
+                  "url": "https://craftcms.com/"
+               } ],
+               "date_added": "13383748412461866",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "6476bd15-4058-4468-97d3-39ac84fd532c",
+               "id": "81",
+               "name": "CMS à tester",
+               "type": "folder"
+            }, {
+               "date_added": "13339894650000000",
+               "date_last_used": "0",
+               "guid": "83ba1753-d3ae-423c-8a0f-74cb2fd82e38",
+               "id": "93",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13332538755000000",
+               "date_last_used": "0",
+               "guid": "26e6b24f-2e21-4f06-aab7-914fde89ec52",
+               "id": "94",
+               "name": "Developer RoadMap",
+               "type": "url",
+               "url": "https://github.com/kamranahmedse/developer-roadmap"
+            }, {
+               "date_added": "13349440170000000",
+               "date_last_used": "0",
+               "guid": "19303b3e-ec8a-4827-a76e-bbd0b4725b6a",
+               "id": "95",
+               "name": "WAVE",
+               "type": "url",
+               "url": "https://wave.webaim.org/"
+            }, {
+               "date_added": "13349440378000000",
+               "date_last_used": "0",
+               "guid": "f991155c-78ff-4d12-939b-8157bf91dd9b",
+               "id": "96",
+               "name": "Color Contrast Checker",
+               "type": "url",
+               "url": "https://coolors.co/contrast-checker/ffffff-000000"
+            }, {
+               "date_added": "13349725279000000",
+               "date_last_used": "0",
+               "guid": "b45ee957-2ac8-4273-92be-e29da45b67d4",
+               "id": "97",
+               "name": "Mistral AI",
+               "type": "url",
+               "url": "https://mistral.ai/product/"
+            }, {
+               "date_added": "13352571366000000",
+               "date_last_used": "0",
+               "guid": "745234a8-74a5-4fe9-a458-2f7f69b532ba",
+               "id": "98",
+               "name": "tinyreset",
+               "type": "url",
+               "url": "https://jgthms.com/minireset.css/"
+            }, {
+               "date_added": "13354223882000000",
+               "date_last_used": "0",
+               "guid": "7f16819b-d57b-4ad1-b79b-9aa609b8ad81",
+               "id": "99",
+               "name": "PNPM",
+               "type": "url",
+               "url": "https://pnpm.io/fr/"
+            }, {
+               "date_added": "13354223901000000",
+               "date_last_used": "0",
+               "guid": "b9f04910-af6b-4589-9f4d-0a54f5b6b7e0",
+               "id": "100",
+               "name": "Nx: Smart Monorepos · Fast CI",
+               "type": "url",
+               "url": "https://nx.dev/"
+            }, {
+               "date_added": "13354224311000000",
+               "date_last_used": "0",
+               "guid": "4c25abcb-9485-4f48-bdb7-0a44937fa3ce",
+               "id": "101",
+               "name": "AdonisJS",
+               "type": "url",
+               "url": "https://adonisjs.com/"
+            }, {
+               "date_added": "13354224403000000",
+               "date_last_used": "0",
+               "guid": "52934982-10bf-438b-b8a1-47046983bce5",
+               "id": "102",
+               "name": "Payments, tax & subscriptions for software companies • Lemon Squeezy",
+               "type": "url",
+               "url": "https://www.lemonsqueezy.com/"
+            }, {
+               "date_added": "13355013958000000",
+               "date_last_used": "0",
+               "guid": "a8cecefe-4daf-4bbf-8a81-6acbe8f187ae",
+               "id": "103",
+               "name": "Basic Editing in Visual Studio Code",
+               "type": "url",
+               "url": "https://code.visualstudio.com/docs/editor/codebasics#_multiple-selections-multicursor"
+            }, {
+               "date_added": "13352412347000000",
+               "date_last_used": "0",
+               "guid": "9b32a4e5-78e8-42fe-bf36-eba7cc9ea017",
+               "id": "104",
+               "name": "Floneum",
+               "type": "url",
+               "url": "https://floneum.com/"
+            }, {
+               "date_added": "13352412520000000",
+               "date_last_used": "0",
+               "guid": "e51fbd4a-c0a0-46d4-bd18-bbe5a48c9dd1",
+               "id": "105",
+               "name": "Unsloth",
+               "type": "url",
+               "url": "https://unsloth.ai/"
+            }, {
+               "date_added": "13355620961000000",
+               "date_last_used": "0",
+               "guid": "65fac9c1-5030-491c-84bc-502abeb7dfef",
+               "id": "106",
+               "name": "Setup Qemu in Debian Linux",
+               "type": "url",
+               "url": "https://christitus.com/vm-setup-in-linux/"
+            }, {
+               "date_added": "13357253280000000",
+               "date_last_used": "0",
+               "guid": "68e28472-3c34-4fec-9dbd-aaefe466627d",
+               "id": "107",
+               "name": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks",
+               "type": "url",
+               "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            }, {
+               "date_added": "13357253386000000",
+               "date_last_used": "0",
+               "guid": "2642609f-b2fb-4a8b-a6c5-d25e99a8da59",
+               "id": "108",
+               "name": "Tailwind CSS Docs",
+               "type": "url",
+               "url": "https://tailwindcss.com/docs/installation"
+            }, {
+               "date_added": "13357420443000000",
+               "date_last_used": "0",
+               "guid": "9dfd0d84-50aa-487e-a3c0-eb26b1059fbf",
+               "id": "109",
+               "name": "SVG Repo",
+               "type": "url",
+               "url": "https://www.svgrepo.com/vectors/instagram/icon/"
+            }, {
+               "date_added": "13357430476000000",
+               "date_last_used": "0",
+               "guid": "82925543-9487-4daa-8e08-8c2d45972845",
+               "id": "110",
+               "name": "Grid Mosaic",
+               "type": "url",
+               "url": "https://medium.com/@axel/mosaic-layouts-with-css-grid-d13f4e3ed2ae"
+            }, {
+               "date_added": "13358335450000000",
+               "date_last_used": "0",
+               "guid": "a4f11e87-b438-4cea-a323-74c09c69ca27",
+               "id": "111",
+               "name": "Vercel",
+               "type": "url",
+               "url": "https://vercel.com/home"
+            }, {
+               "date_added": "13356359760000000",
+               "date_last_used": "0",
+               "guid": "a46297e7-1442-4e50-a1e3-eb418ec6fc60",
+               "id": "112",
+               "name": "Tauri Apps",
+               "type": "url",
+               "url": "https://tauri.app/"
+            }, {
+               "date_added": "13370388965000000",
+               "date_last_used": "0",
+               "guid": "25450e1a-04a6-4f87-b077-10ac3f66007a",
+               "id": "113",
+               "name": "Render",
+               "type": "url",
+               "url": "https://render.com/pricing#compute"
+            }, {
+               "date_added": "13370774621000000",
+               "date_last_used": "0",
+               "guid": "65949d31-c946-4373-ab56-2645a633e3d3",
+               "id": "114",
+               "name": "Livepeer Studio",
+               "type": "url",
+               "url": "https://livepeer.studio/dashboard/settings/projects"
+            }, {
+               "date_added": "13371151394000000",
+               "date_last_used": "0",
+               "guid": "013a1cba-6c46-4161-94d1-f9c326721378",
+               "id": "115",
+               "name": "Dashboard Admin Wordpress",
+               "type": "url",
+               "url": "http://localhost/wp-admin/"
+            }, {
+               "date_added": "13381360284000000",
+               "date_last_used": "0",
+               "guid": "dc88f370-bc45-4e0a-a795-19a4acb2b471",
+               "id": "116",
+               "name": "#1 Solidity Tutorial & Ethereum Blockchain Programming Course | CryptoZombies",
+               "type": "url",
+               "url": "https://cryptozombies.io/"
+            }, {
+               "date_added": "13381360422000000",
+               "date_last_used": "0",
+               "guid": "67a5cce6-b384-4174-bf43-2197485e93ea",
+               "id": "117",
+               "name": "thirdweb: The complete web3 development platform",
+               "type": "url",
+               "url": "https://thirdweb.com/"
+            }, {
+               "date_added": "13381360612000000",
+               "date_last_used": "0",
+               "guid": "7ef1126b-b233-4139-b4fd-a421b143b166",
+               "id": "118",
+               "name": "Eliza.gg - Learn about the Eliza Agent Framework",
+               "type": "url",
+               "url": "https://eliza.gg/"
+            }, {
+               "date_added": "13374788307000000",
+               "date_last_used": "0",
+               "guid": "92169dc4-fbd7-4f59-a910-2e032f23c6db",
+               "id": "318",
+               "name": "OnlyDust",
+               "type": "url",
+               "url": "https://www.onlydust.com/"
+            }, {
+               "date_added": "13370775100000000",
+               "date_last_used": "0",
+               "guid": "28eca0a7-dc60-4094-af10-8f97dfbb7f10",
+               "id": "317",
+               "name": "Decentraliized Twitch App",
+               "type": "url",
+               "url": "https://trello.com/b/MZodaqYr/decentraliized-twitch-app"
+            }, {
+               "date_added": "13383959233445133",
+               "date_last_used": "13384908697548407",
+               "guid": "e4487dcf-65c1-431d-bd8c-5e9263d90210",
+               "id": "334",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Documentation: Development — _tw",
+               "type": "url",
+               "url": "https://underscoretw.com/docs/development/"
+            }, {
+               "date_added": "13386942135019447",
+               "date_last_used": "0",
+               "guid": "6b7ae528-d2e8-4624-9b90-0ca76b85b7b0",
+               "id": "349",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Hippius",
+               "type": "url",
+               "url": "https://hippius.com/"
+            } ],
+            "date_added": "13383748412461402",
+            "date_last_used": "0",
+            "date_modified": "13386942136972433",
+            "guid": "d2bb8e8b-ecf2-4664-a7b6-d4c2c9820ae2",
+            "id": "27",
+            "name": "Dev",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13376501028000000",
+                  "date_last_used": "0",
+                  "guid": "3a1282fe-4709-4892-9805-95e5fb4da765",
+                  "id": "190",
+                  "name": "Tableland: The decentralized cloud database",
+                  "type": "url",
+                  "url": "https://tableland.xyz/"
+               }, {
+                  "date_added": "13376501073000000",
+                  "date_last_used": "0",
+                  "guid": "af719770-7188-41d8-a197-b57aa2c01888",
+                  "id": "191",
+                  "name": "Textile | Linktree",
+                  "type": "url",
+                  "url": "https://linktr.ee/textileio"
+               }, {
+                  "date_added": "13376501196000000",
+                  "date_last_used": "0",
+                  "guid": "81b16f14-138c-4646-81dc-f3c333804eb9",
+                  "id": "192",
+                  "name": "Textile - Basin",
+                  "type": "url",
+                  "url": "https://basin.textile.io/"
+               }, {
+                  "date_added": "13375995494000000",
+                  "date_last_used": "0",
+                  "guid": "87b47ad7-1723-4ba5-911c-27706346d351",
+                  "id": "193",
+                  "name": "Fluence Cloudless",
+                  "type": "url",
+                  "url": "https://www.fluence.network/build"
+               }, {
+                  "date_added": "13376501344000000",
+                  "date_last_used": "0",
+                  "guid": "37736454-c748-45ab-8cd6-ef456fb9cdeb",
+                  "id": "194",
+                  "name": "The Bagel Network Price | Price Today, Live Chart, USD converter, Market Capitalization | CryptoRank.io",
+                  "type": "url",
+                  "url": "https://cryptorank.io/price/the-bagel-network"
+               }, {
+                  "date_added": "13376501379000000",
+                  "date_last_used": "0",
+                  "guid": "984ebdea-6bcb-4b7c-86fd-bcf99b27bd67",
+                  "id": "195",
+                  "name": "Akave | Cultivating Futures On-Chain",
+                  "type": "url",
+                  "url": "https://www.akave.ai/"
+               }, {
+                  "date_added": "13376511767000000",
+                  "date_last_used": "0",
+                  "guid": "335d450f-1bda-4fe0-81cd-0e4f61fa7ebf",
+                  "id": "196",
+                  "name": "Ramo",
+                  "type": "url",
+                  "url": "https://www.ramo.io/"
+               }, {
+                  "date_added": "13376512312000000",
+                  "date_last_used": "0",
+                  "guid": "7693a0a8-5c2d-4d9b-a9a4-74cc301f3daa",
+                  "id": "197",
+                  "name": "Storacha",
+                  "type": "url",
+                  "url": "https://storacha.network/"
+               }, {
+                  "date_added": "13376962643000000",
+                  "date_last_used": "0",
+                  "guid": "890c773b-5ce6-48af-b511-03d1c9c76d9f",
+                  "id": "199",
+                  "name": "Filecoin Network Health Dashboard",
+                  "type": "url",
+                  "url": "https://dashboard.starboard.ventures/dashboard"
+               } ],
+               "date_added": "13383748412462685",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "212d4981-a862-4fcd-b848-411dfbd90118",
+               "id": "189",
+               "name": "Lien avec FIlecoin",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13368018195000000",
+                     "date_last_used": "0",
+                     "guid": "f7ecd2da-ea76-4209-8472-7d2778fd3cc4",
+                     "id": "122",
+                     "name": "Ankr Staking",
+                     "type": "url",
+                     "url": "https://www.ankr.com/staking/dashboard/"
+                  }, {
+                     "date_added": "13367354180000000",
+                     "date_last_used": "0",
+                     "guid": "2da58870-418e-42e3-9ee0-8a6294991c07",
+                     "id": "123",
+                     "name": "Meria Staking Interface",
+                     "type": "url",
+                     "url": "https://stake.meria.com/fr/"
+                  }, {
+                     "date_added": "13374633420000000",
+                     "date_last_used": "0",
+                     "guid": "6896cd51-88cf-43db-8bdb-ad9a286d9848",
+                     "id": "124",
+                     "name": "Ethena",
+                     "type": "url",
+                     "url": "https://app.ethena.fi/"
+                  }, {
+                     "date_added": "13373674915000000",
+                     "date_last_used": "0",
+                     "guid": "6971c3c1-1559-41dd-aafe-0d25d2daa2f2",
+                     "id": "125",
+                     "name": "Babylon Labs",
+                     "type": "url",
+                     "url": "https://babylonlabs.io/"
+                  }, {
+                     "date_added": "13373667415000000",
+                     "date_last_used": "13386354646729894",
+                     "guid": "4fde54dc-bf6f-48d9-9fe7-efdd170b644a",
+                     "id": "126",
+                     "name": "Syrup Finance",
+                     "type": "url",
+                     "url": "https://syrup.fi/"
+                  }, {
+                     "date_added": "13373667202000000",
+                     "date_last_used": "0",
+                     "guid": "d22d8523-d48b-4275-a188-a7590f1ecce9",
+                     "id": "127",
+                     "name": "Maple Finance",
+                     "type": "url",
+                     "url": "https://maple.finance/"
+                  }, {
+                     "date_added": "13375885345000000",
+                     "date_last_used": "13389117015031748",
+                     "guid": "d2cdb8ce-c32d-462d-9349-274e589cc2a4",
+                     "id": "128",
+                     "name": "GamerCoin (GHX) staking & liquidity",
+                     "type": "url",
+                     "url": "https://staking.gamercoin.com/?liquidity-tab=claim-ghx"
+                  }, {
+                     "date_added": "13375905030000000",
+                     "date_last_used": "0",
+                     "guid": "9820fc72-68c6-427e-a7c6-fd9c83be8405",
+                     "id": "129",
+                     "name": "Morpho",
+                     "type": "url",
+                     "url": "https://app.morpho.org/migrate?network=mainnet"
+                  }, {
+                     "date_added": "13376598418000000",
+                     "date_last_used": "0",
+                     "guid": "d942c995-66f2-4476-ad4c-75bbee1c85b1",
+                     "id": "130",
+                     "name": "MegaVault · dYdX",
+                     "type": "url",
+                     "url": "https://dydx.trade/vault"
+                  }, {
+                     "date_added": "13379878100000000",
+                     "date_last_used": "0",
+                     "guid": "4335d04a-4035-41c3-bf79-d28a73d0fb86",
+                     "id": "131",
+                     "name": "Usual Interface",
+                     "type": "url",
+                     "url": "https://app.usual.money/"
+                  } ],
+                  "date_added": "13383748412462163",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "362698f4-be6d-4e74-9b01-2a9866ddce6e",
+                  "id": "121",
+                  "name": "Staking",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13351716860000000",
+                     "date_last_used": "13389117385220982",
+                     "guid": "f4c522ae-fb80-4743-a87f-a9d293c1dad2",
+                     "id": "133",
+                     "name": "Uniswap",
+                     "type": "url",
+                     "url": "https://app.uniswap.org/swap"
+                  }, {
+                     "date_added": "13367416933000000",
+                     "date_last_used": "13389117553436566",
+                     "guid": "de866bb2-1b61-4a7f-bd56-2c62c894a220",
+                     "id": "134",
+                     "name": "1inch",
+                     "type": "url",
+                     "url": "https://app.1inch.io/#/1/simple/swap/USDT/ETH"
+                  }, {
+                     "date_added": "13376598769000000",
+                     "date_last_used": "0",
+                     "guid": "5f028763-a8a0-4038-97ae-07502ae6009c",
+                     "id": "135",
+                     "name": "KDSwap",
+                     "type": "url",
+                     "url": "https://www.kdswap.exchange/"
+                  } ],
+                  "date_added": "13383748412462244",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "ff77e10d-d297-44b0-a844-7fa1d48c26c2",
+                  "id": "132",
+                  "name": "DEX",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13368016805000000",
+                     "date_last_used": "0",
+                     "guid": "51d5c3f1-4688-419a-855b-8171f2cd92f5",
+                     "id": "137",
+                     "name": "Kadena Transfer Tool",
+                     "type": "url",
+                     "url": "https://transfer.chainweb.com/"
+                  }, {
+                     "date_added": "13375885345000000",
+                     "date_last_used": "0",
+                     "guid": "9ff0a211-bf4b-46aa-a379-55305b125504",
+                     "id": "138",
+                     "name": "MetaMask Portfolio",
+                     "type": "url",
+                     "url": "https://portfolio.metamask.io/"
+                  }, {
+                     "date_added": "13375885345000000",
+                     "date_last_used": "13384021702603342",
+                     "guid": "eb97f550-e598-44b7-b3f5-ae5b0ff7948f",
+                     "id": "139",
+                     "name": "Subtensor TAO",
+                     "type": "url",
+                     "url": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fentrypoint-finney.opentensor.ai%3A443#/accounts"
+                  }, {
+                     "date_added": "13375885345000000",
+                     "date_last_used": "0",
+                     "guid": "e8b2f59b-0d23-41d6-9096-f719aaa12591",
+                     "id": "140",
+                     "name": "HBAR Hashpack Wallet",
+                     "type": "url",
+                     "url": "https://wallet.hashpack.app/"
+                  }, {
+                     "date_added": "13375885345000000",
+                     "date_last_used": "13384370373230221",
+                     "guid": "fba2c11e-cded-43bb-9c83-78d759e6ac6d",
+                     "id": "141",
+                     "name": "TaoStats",
+                     "type": "url",
+                     "url": "https://taostats.io/"
+                  }, {
+                     "date_added": "13375885345000000",
+                     "date_last_used": "13389117007440038",
+                     "guid": "120c689a-379e-4041-93ea-b919b3b2caca",
+                     "id": "142",
+                     "name": "GamerHash",
+                     "type": "url",
+                     "url": "https://gamerhash.com/en/account/wallet"
+                  } ],
+                  "date_added": "13383748412462274",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "9851b672-eae1-4089-83a5-b980120d68e3",
+                  "id": "136",
+                  "name": "Wallets App",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13373675291000000",
+                     "date_last_used": "13385313102710619",
+                     "guid": "b8386c29-8ec3-40be-a813-3c808c0b2b38",
+                     "id": "144",
+                     "name": "Janction",
+                     "type": "url",
+                     "url": "https://www.janction.io/genesis"
+                  }, {
+                     "children": [ {
+                        "date_added": "13379008007000000",
+                        "date_last_used": "0",
+                        "guid": "704a8022-38e0-4a97-8bb2-a2ec6d5b55c8",
+                        "id": "146",
+                        "name": "Crankk",
+                        "type": "url",
+                        "url": "https://dashboard.crankk.io/dashboard"
+                     }, {
+                        "date_added": "13379008586000000",
+                        "date_last_used": "0",
+                        "guid": "84dfd103-e2bd-4815-bfa8-6d05702d99b4",
+                        "id": "147",
+                        "name": "Module HAT LoRa 868 MHz SKU22571 - Gotronic",
+                        "type": "url",
+                        "url": "https://www.gotronic.fr/art-module-hat-lora-868-mhz-sku22571-35032.htm"
+                     }, {
+                        "date_added": "13379008661000000",
+                        "date_last_used": "0",
+                        "guid": "9df4c7f9-88b6-4fef-b23f-8d1ee13ae692",
+                        "id": "148",
+                        "name": "lora-and-lorawan-radio-for-raspberry-pi.pdf",
+                        "type": "url",
+                        "url": "https://cdn-learn.adafruit.com/downloads/pdf/lora-and-lorawan-radio-for-raspberry-pi.pdf"
+                     }, {
+                        "date_added": "13379008717000000",
+                        "date_last_used": "0",
+                        "guid": "5a30ef43-c8e7-43ef-b5e2-38e9bd0f546d",
+                        "id": "149",
+                        "name": "Module LoRa pour Raspberry Pi - 868 MHz, SX1262",
+                        "type": "url",
+                        "url": "https://envytech.fr/boutique/module-lora-pour-raspberry-pi-868-mhz-sx1262/"
+                     } ],
+                     "date_added": "13383748412462333",
+                     "date_last_used": "0",
+                     "date_modified": "0",
+                     "guid": "79787c3a-c75b-4ab6-bc1d-430a1ee87928",
+                     "id": "145",
+                     "name": "Crankk",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13383748412462323",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "b3f18163-ca03-47fc-baf7-ce39c980a24a",
+                  "id": "143",
+                  "name": "DEPIN",
+                  "type": "folder"
+               }, {
+                  "date_added": "13363655264000000",
+                  "date_last_used": "13383853484156807",
+                  "guid": "6ce417c5-5b7b-42af-8e4c-5cc21286da8f",
+                  "id": "150",
+                  "name": "Bolero",
+                  "type": "url",
+                  "url": "https://www.boleromusic.com/fr/discover"
+               }, {
+                  "date_added": "13375887364000000",
+                  "date_last_used": "13383853483335512",
+                  "guid": "c1bd9b46-7a3e-4e7f-afbf-ca16ff403c8f",
+                  "id": "151",
+                  "name": "KADENA CHIPS",
+                  "type": "url",
+                  "url": "https://www.chips.finance/"
+               } ],
+               "date_added": "13383748412462160",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "3636f545-639a-4573-baf9-7c9d13b1e2b9",
+               "id": "120",
+               "name": "DAPPS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13366230439000000",
+                  "date_last_used": "0",
+                  "guid": "96f98955-38ed-4190-84bd-9cb51669ae51",
+                  "id": "158",
+                  "name": "Artemis",
+                  "type": "url",
+                  "url": "https://app.artemis.xyz/home"
+               }, {
+                  "date_added": "13366230965000000",
+                  "date_last_used": "0",
+                  "guid": "05ae648d-3044-4c23-ac6a-9c38977c8759",
+                  "id": "159",
+                  "name": "Tokens Unlock",
+                  "type": "url",
+                  "url": "https://token.unlocks.app/"
+               }, {
+                  "date_added": "13366230496000000",
+                  "date_last_used": "0",
+                  "guid": "b9791e98-1c7b-4107-95bb-ad1a7d33eab1",
+                  "id": "160",
+                  "name": "Crypto metrics",
+                  "type": "url",
+                  "url": "https://cryptoquant.com/asset/btc/summary"
+               }, {
+                  "date_added": "13366231368000000",
+                  "date_last_used": "0",
+                  "guid": "b21bafa5-f605-41ff-a4f5-459a8d2e0a83",
+                  "id": "161",
+                  "name": "Altcoin season index",
+                  "type": "url",
+                  "url": "https://www.blockchaincenter.net/en/altcoin-season-index/"
+               }, {
+                  "date_added": "13367600313000000",
+                  "date_last_used": "0",
+                  "guid": "41ee5d60-9716-450e-baed-9e6a89f3a415",
+                  "id": "162",
+                  "name": "DEX Screener",
+                  "type": "url",
+                  "url": "https://dexscreener.com/"
+               }, {
+                  "date_added": "13367600301000000",
+                  "date_last_used": "13389094090621373",
+                  "guid": "e7381870-275f-4761-91d8-0f3892c0c581",
+                  "id": "163",
+                  "name": "Mining Pool Stats",
+                  "type": "url",
+                  "url": "https://miningpoolstats.stream/"
+               }, {
+                  "date_added": "13367599398000000",
+                  "date_last_used": "13389094089902261",
+                  "guid": "61e63fce-f39b-40c8-a831-374da638b142",
+                  "id": "164",
+                  "name": "Hashrate.no",
+                  "type": "url",
+                  "url": "https://www.hashrate.no/"
+               }, {
+                  "date_added": "13368031962000000",
+                  "date_last_used": "13389045311887111",
+                  "guid": "b1bf094d-b68b-4217-9656-4c293795476a",
+                  "id": "165",
+                  "name": "DefiLlama",
+                  "type": "url",
+                  "url": "https://defillama.com/"
+               }, {
+                  "date_added": "13368231108000000",
+                  "date_last_used": "0",
+                  "guid": "86459932-18ba-4e35-bdc3-9564e06475f9",
+                  "id": "166",
+                  "name": "Bitcoin Rainbow Chart",
+                  "type": "url",
+                  "url": "https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/"
+               }, {
+                  "date_added": "13370467454000000",
+                  "date_last_used": "0",
+                  "guid": "69d1dc28-1497-4c1c-9f62-45c077d52a0c",
+                  "id": "167",
+                  "name": "KDSwap",
+                  "type": "url",
+                  "url": "https://www.kdswap.exchange/dex"
+               }, {
+                  "date_added": "13358557520000000",
+                  "date_last_used": "0",
+                  "guid": "56d2f927-c3ac-4c4a-9eb8-b22965e2dc94",
+                  "id": "168",
+                  "name": "Waltio",
+                  "type": "url",
+                  "url": "https://tax.waltio.com/accounts"
+               }, {
+                  "date_added": "13374617722000000",
+                  "date_last_used": "0",
+                  "guid": "d34f2eee-c417-4935-82ef-ec826a4cee0c",
+                  "id": "169",
+                  "name": "Daily Warden",
+                  "type": "url",
+                  "url": "https://www.dailywarden.com/"
+               }, {
+                  "date_added": "13374672717000000",
+                  "date_last_used": "0",
+                  "guid": "17eab625-7d57-47e8-9164-880397ac8501",
+                  "id": "170",
+                  "name": "OAK Research",
+                  "type": "url",
+                  "url": "https://oakresearch.io/fr/home"
+               }, {
+                  "date_added": "13374876058000000",
+                  "date_last_used": "13385423458411033",
+                  "guid": "26ef025e-e2dc-46bb-8d19-488d79159643",
+                  "id": "171",
+                  "name": "CryptoRank",
+                  "type": "url",
+                  "url": "https://cryptorank.io/"
+               }, {
+                  "date_added": "13374877998000000",
+                  "date_last_used": "0",
+                  "guid": "c330f5af-0862-46bf-bf68-372bcab9f5bc",
+                  "id": "172",
+                  "name": "Chainspect",
+                  "type": "url",
+                  "url": "https://chainspect.app/dashboard"
+               }, {
+                  "date_added": "13374885797000000",
+                  "date_last_used": "13385467582578109",
+                  "guid": "dc3c96d2-f868-4068-b349-687077c581fa",
+                  "id": "173",
+                  "name": "L2BEAT",
+                  "type": "url",
+                  "url": "https://l2beat.com/scaling/summary"
+               }, {
+                  "date_added": "13378409565000000",
+                  "date_last_used": "13383779876640035",
+                  "guid": "d38c05c4-7343-4a3e-9e89-b9089d62ea69",
+                  "id": "174",
+                  "name": "Ethereum Gas Tracker",
+                  "type": "url",
+                  "url": "https://etherscan.io/gastracker"
+               }, {
+                  "date_added": "13378255782000000",
+                  "date_last_used": "0",
+                  "guid": "5378e093-0b9a-467e-bfff-defa53df093a",
+                  "id": "175",
+                  "name": "calc.trade",
+                  "type": "url",
+                  "url": "https://calc.trade/"
+               }, {
+                  "date_added": "13377829790000000",
+                  "date_last_used": "0",
+                  "guid": "f5c6636e-7dc2-4e15-9e13-abfc15d92154",
+                  "id": "176",
+                  "name": "Agg Trade",
+                  "type": "url",
+                  "url": "https://aggr.trade/4xd7"
+               }, {
+                  "children": [ {
+                     "date_added": "13355912113000000",
+                     "date_last_used": "0",
+                     "guid": "4269ec46-629e-417d-8e28-b9fdbf007b02",
+                     "id": "153",
+                     "name": "Coinbase",
+                     "type": "url",
+                     "url": "https://www.coinbase.com/home"
+                  }, {
+                     "date_added": "13359055662000000",
+                     "date_last_used": "13384005680911953",
+                     "guid": "2b5babe3-5cf6-4d9b-b4b8-d2ed26f5886f",
+                     "id": "154",
+                     "name": "Binance",
+                     "type": "url",
+                     "url": "https://www.binance.com/fr/my/dashboard"
+                  }, {
+                     "date_added": "13343678517000000",
+                     "date_last_used": "0",
+                     "guid": "05b53b17-73f6-4771-a7bb-f7b4864dda38",
+                     "id": "155",
+                     "name": "MEXC",
+                     "type": "url",
+                     "url": "https://www.mexc.com/fr-FR"
+                  }, {
+                     "date_added": "13376002303000000",
+                     "date_last_used": "0",
+                     "guid": "927280b5-f5a9-4a67-8bb7-f4c6cdd8d46d",
+                     "id": "156",
+                     "name": "CoinList",
+                     "type": "url",
+                     "url": "https://coinlist.co/"
+                  } ],
+                  "date_added": "13383748412462401",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "2bca2bb8-eb65-4126-b50a-8694bad1fb2b",
+                  "id": "152",
+                  "name": "CEX",
+                  "type": "folder"
+               }, {
+                  "date_added": "13385673159749338",
+                  "date_last_used": "0",
+                  "guid": "46118f77-1444-48db-8c71-527a6a93d4da",
+                  "id": "340",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Le Chat - Mistral AI",
+                  "type": "url",
+                  "url": "https://chat.mistral.ai/chat/233514d8-98c0-4bf1-b249-08252877da9b"
+               }, {
+                  "date_added": "13385852141226685",
+                  "date_last_used": "0",
+                  "guid": "787f3732-73ad-4673-a8b5-320666dd74bc",
+                  "id": "342",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "5E2b2DcM... · Account · taostats",
+                  "type": "url",
+                  "url": "https://taostats.io/account/5E2b2DcMd5W8MBhzTCFt63t2ZEN8RsRgL7oDd7BFYL9aMQux/extrinsics"
+               }, {
+                  "date_added": "13384006251926407",
+                  "date_last_used": "13385865129763067",
+                  "guid": "67819c4d-a18a-4741-8f4b-ff922fbd7fec",
+                  "id": "336",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "TaoMarketCap",
+                  "type": "url",
+                  "url": "https://taomarketcap.com/subnets"
+               } ],
+               "date_added": "13383748412462431",
+               "date_last_used": "0",
+               "date_modified": "13386937526284313",
+               "guid": "78b93610-7d41-4304-b215-190eb5995d56",
+               "id": "157",
+               "name": "Outils",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13368017592000000",
+                  "date_last_used": "13385423680370020",
+                  "guid": "b23b9501-73cb-4d9a-bf4f-509c99d0ee6e",
+                  "id": "178",
+                  "name": "CKB Adresse",
+                  "type": "url",
+                  "url": "https://explorer.nervos.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0scx4na7qfe27n6fmmftqccq32v4ekahq4yhvzk"
+               }, {
+                  "date_added": "13368017603000000",
+                  "date_last_used": "13385423680659787",
+                  "guid": "ec390cd1-a61d-4371-9d64-3fa39d680153",
+                  "id": "179",
+                  "name": "Decred Adresse",
+                  "type": "url",
+                  "url": "https://explorer.dcrdata.org/address/DsS6MK5k7qZFzUyPzQ7okL1MbheSbyArAyh?chart=balance&zoom=lyos2xs0-lzw8q3k0&bin=month"
+               }, {
+                  "date_added": "13368017716000000",
+                  "date_last_used": "0",
+                  "guid": "d9a4ad81-acb8-478b-ba1d-d4b663d30ee9",
+                  "id": "180",
+                  "name": "HBAR Adresse",
+                  "type": "url",
+                  "url": "https://hashscan.io/mainnet/account/0.0.6590541?kh=1&kn=1&kt=1&kc=1"
+               }, {
+                  "date_added": "13368017796000000",
+                  "date_last_used": "13385423681691538",
+                  "guid": "58e742cf-898b-4db0-a9da-072f6738612b",
+                  "id": "181",
+                  "name": "FIL Adresse",
+                  "type": "url",
+                  "url": "https://filfox.info/en/address/f16anixjcwwgitszbey5mkott5mp2zjwjvrd3pbni"
+               }, {
+                  "date_added": "13351716499000000",
+                  "date_last_used": "13388704842129256",
+                  "guid": "2af8c250-7592-43fb-95cb-6087c6a1cfa2",
+                  "id": "182",
+                  "name": "Metamask ETH Adresse (Hot)",
+                  "type": "url",
+                  "url": "https://etherscan.io/address/0x32FAfD179Ca603e4De2b4F9FE91323f52B99A5DC"
+               }, {
+                  "date_added": "13368019777000000",
+                  "date_last_used": "13385423680639797",
+                  "guid": "d3eb4989-574e-424f-be38-a3aad8119796",
+                  "id": "183",
+                  "name": "ETH Adresse (cold)",
+                  "type": "url",
+                  "url": "https://etherscan.io/address/0x4551bCDA3Ff0312a36b0eeBd47513c6ccAF98633"
+               }, {
+                  "date_added": "13368023370000000",
+                  "date_last_used": "13385423680608729",
+                  "guid": "8f00cdb6-16d1-481f-ac33-0f4da931374d",
+                  "id": "184",
+                  "name": "STX Adresse",
+                  "type": "url",
+                  "url": "https://explorer.hiro.so/address/SPYMB407T7XKVP9NRWSBP99PJ86QE2FFAENH8FXR"
+               }, {
+                  "date_added": "13368114133000000",
+                  "date_last_used": "13385423683928664",
+                  "guid": "8663cfb6-3c76-43d0-8868-56abcacf7b80",
+                  "id": "185",
+                  "name": "TAO Adresse",
+                  "type": "url",
+                  "url": "https://x.taostats.io/account/5GMzWjQoDskkgMq3f8TrdFWmpcDDEHWD4oRMkmkH79KFd7ew#delegation-chart"
+               }, {
+                  "date_added": "13375051769000000",
+                  "date_last_used": "13385423680669472",
+                  "guid": "7a6b2daf-e588-438b-970c-75559d428da1",
+                  "id": "186",
+                  "name": "Kadena Adresse",
+                  "type": "url",
+                  "url": "https://explorer.kadena.io/mainnet/account/k:de490985f197a6587f2eaa74129d26c0152d4ba89078016a4eac2fb26a18f5d9"
+               }, {
+                  "date_added": "13382542951000000",
+                  "date_last_used": "13385423680518437",
+                  "guid": "034f0748-c43e-43e7-b5cb-1c1ab2288a56",
+                  "id": "187",
+                  "name": "Alephium Adresse",
+                  "type": "url",
+                  "url": "https://explorer.alephium.org/addresses/19YUW95kKRTTmWPUX6SmGH3S4ZsRWt95VjHcnSdTb4tFN"
+               }, {
+                  "children": [ {
+                     "date_added": "13375904959000000",
+                     "date_last_used": "0",
+                     "guid": "dc4e4c1a-7db9-4494-985b-5d9a065520f1",
+                     "id": "200",
+                     "name": "C.A.P.",
+                     "type": "url",
+                     "url": "https://caplabs.io/"
+                  }, {
+                     "date_added": "13375905157000000",
+                     "date_last_used": "0",
+                     "guid": "1d22f911-2d91-4d4c-9b75-0f47c3966feb",
+                     "id": "201",
+                     "name": "Mezo",
+                     "type": "url",
+                     "url": "https://mezo.org/"
+                  }, {
+                     "date_added": "13375905167000000",
+                     "date_last_used": "0",
+                     "guid": "a2a40e26-c79b-4c51-a48d-012c0d8edea3",
+                     "id": "202",
+                     "name": "BOB",
+                     "type": "url",
+                     "url": "https://www.gobob.xyz/"
+                  }, {
+                     "date_added": "13375905268000000",
+                     "date_last_used": "0",
+                     "guid": "0b17c656-302c-48a0-9852-ef9372fd1ec2",
+                     "id": "203",
+                     "name": "Enso Network",
+                     "type": "url",
+                     "url": "https://www.enso.finance/"
+                  }, {
+                     "date_added": "13375905301000000",
+                     "date_last_used": "0",
+                     "guid": "14887ed3-dd7a-46be-a57d-b8c38c031307",
+                     "id": "204",
+                     "name": "RedPill",
+                     "type": "url",
+                     "url": "https://red-pill.ai/"
+                  }, {
+                     "date_added": "13375905336000000",
+                     "date_last_used": "0",
+                     "guid": "c1668964-2529-49d1-933a-dcbaf4596f90",
+                     "id": "205",
+                     "name": "BulbaSwap Price | Price Today, Live Chart, USD converter, Market Capitalization | CryptoRank.io",
+                     "type": "url",
+                     "url": "https://cryptorank.io/price/bulbaswap"
+                  }, {
+                     "date_added": "13375905415000000",
+                     "date_last_used": "0",
+                     "guid": "4c61a3f1-8934-4012-b49e-cda2f4e2ad6d",
+                     "id": "206",
+                     "name": "Home | Hyle.eu",
+                     "type": "url",
+                     "url": "https://www.hyle.eu/"
+                  }, {
+                     "date_added": "13375905639000000",
+                     "date_last_used": "0",
+                     "guid": "b0f7cfe2-b063-4aa0-98d4-ddb461168543",
+                     "id": "207",
+                     "name": "Ondefy - Home",
+                     "type": "url",
+                     "url": "https://www.ondefy.com/"
+                  }, {
+                     "date_added": "13375905768000000",
+                     "date_last_used": "0",
+                     "guid": "f9048a2f-c624-4a94-9d1a-719c89417514",
+                     "id": "208",
+                     "name": "Pipe Network",
+                     "type": "url",
+                     "url": "https://pipe.network/"
+                  }, {
+                     "date_added": "13375995212000000",
+                     "date_last_used": "0",
+                     "guid": "9740b59f-4393-4e4c-a319-a83e5f280615",
+                     "id": "209",
+                     "name": "Azura",
+                     "type": "url",
+                     "url": "https://azura.xyz/"
+                  }, {
+                     "date_added": "13375995252000000",
+                     "date_last_used": "0",
+                     "guid": "64466808-4c14-4fb3-9e9a-f02e58e1113c",
+                     "id": "210",
+                     "name": "MITH",
+                     "type": "url",
+                     "url": "https://mith.io/"
+                  }, {
+                     "date_added": "13376135204000000",
+                     "date_last_used": "0",
+                     "guid": "c654ec45-1674-47e4-8307-e8b8eb23b361",
+                     "id": "211",
+                     "name": "Warthog Network",
+                     "type": "url",
+                     "url": "https://warthog.network/"
+                  }, {
+                     "date_added": "13376135231000000",
+                     "date_last_used": "0",
+                     "guid": "9d3520d6-5b62-43f5-a59e-e9f63087007c",
+                     "id": "212",
+                     "name": "Quilibrium",
+                     "type": "url",
+                     "url": "https://quilibrium.com/"
+                  }, {
+                     "date_added": "13376135327000000",
+                     "date_last_used": "0",
+                     "guid": "4b7f5694-0dd4-4c4c-ac77-8ea5c64a259f",
+                     "id": "213",
+                     "name": "XDAG | A new DAG-based cryptocurrency",
+                     "type": "url",
+                     "url": "https://xdag.io/"
+                  }, {
+                     "date_added": "13376513177000000",
+                     "date_last_used": "0",
+                     "guid": "95a395b5-45a9-4862-8aa6-02df5499e0ff",
+                     "id": "214",
+                     "name": "GEODNET: Web3 RTK Location Correction, Blockchain-Powered DePIN Network",
+                     "type": "url",
+                     "url": "https://geodnet.com/"
+                  }, {
+                     "date_added": "13376513415000000",
+                     "date_last_used": "0",
+                     "guid": "afd10bc5-68b5-4d9e-a740-c7b440983a4c",
+                     "id": "215",
+                     "name": "Yala: Connecting Bitcoin liquidity with a meta yield stablecoin",
+                     "type": "url",
+                     "url": "https://yala.org/"
+                  }, {
+                     "date_added": "13376513642000000",
+                     "date_last_used": "0",
+                     "guid": "ed963b5f-6bb6-407a-960c-8cb96a33f380",
+                     "id": "216",
+                     "name": "Datura AI",
+                     "type": "url",
+                     "url": "https://chi.datura.ai/"
+                  }, {
+                     "date_added": "13376598812000000",
+                     "date_last_used": "0",
+                     "guid": "64bdb3ec-1110-4672-92ba-ab897ad2a664",
+                     "id": "217",
+                     "name": "CRKK",
+                     "type": "url",
+                     "url": "https://www.kdswap.exchange/token/crkk"
+                  }, {
+                     "date_added": "13378322746000000",
+                     "date_last_used": "0",
+                     "guid": "b2311cca-b548-4a86-9a3e-c3df4aff712f",
+                     "id": "218",
+                     "name": "Teneo - Data Utilization and Tokenization for DePIN and AI",
+                     "type": "url",
+                     "url": "https://teneo.pro/"
+                  }, {
+                     "date_added": "13378322775000000",
+                     "date_last_used": "0",
+                     "guid": "caf6e4f3-2e72-4454-a425-a3d299f309a3",
+                     "id": "219",
+                     "name": "Home | Functor Network",
+                     "type": "url",
+                     "url": "https://www.functor.sh/"
+                  } ],
+                  "date_added": "13383748412462681",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "5f8b6786-0f5e-4f3e-885a-d8dd3c7ff1fe",
+                  "id": "188",
+                  "name": "A voir",
+                  "type": "folder"
+               }, {
+                  "date_added": "13385429237590005",
+                  "date_last_used": "0",
+                  "guid": "555909b9-186a-49f8-9fda-995489043e25",
+                  "id": "338",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "J’ai Créé des Jeux pendant 1an, Voici ce qu’il s’est passé… - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=ShwdpkX_I2M"
+               } ],
+               "date_added": "13383748412462572",
+               "date_last_used": "0",
+               "date_modified": "13385429237590005",
+               "guid": "116260f2-b530-4413-8a55-bdbb454affff",
+               "id": "177",
+               "name": "Wallets Explorer",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13389298289292148",
+                  "date_last_used": "0",
+                  "guid": "b69c4cb9-d3c3-4ea6-a5ad-dc53901554f3",
+                  "id": "400",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Maple Finance",
+                  "type": "url",
+                  "url": "https://dune.com/maple-finance/maple-finance"
+               }, {
+                  "date_added": "13376962563000000",
+                  "date_last_used": "13389298286587371",
+                  "guid": "f30ca139-de18-45c2-a24b-0c01e2c68f07",
+                  "id": "198",
+                  "name": "Filecoin",
+                  "type": "url",
+                  "url": "https://dune.com/kalen/filecoin-daily-metrics"
+               } ],
+               "date_added": "13389298302277425",
+               "date_last_used": "0",
+               "date_modified": "13389298346862326",
+               "guid": "008879e9-103f-4803-adda-c51cac226411",
+               "id": "401",
+               "name": "Dashboards",
+               "type": "folder"
+            }, {
+               "date_added": "13356058195000000",
+               "date_last_used": "13389117257529068",
+               "guid": "2a452a70-306d-4914-a3cb-a9ac1fd5be1a",
+               "id": "220",
+               "name": "Coinmarketcap",
+               "type": "url",
+               "url": "https://coinmarketcap.com/fr/watchlist/"
+            }, {
+               "date_added": "13378320121000000",
+               "date_last_used": "0",
+               "guid": "364d8a06-b820-4a10-be72-4fcff72f9bee",
+               "id": "221",
+               "name": "LiveCoinWatch",
+               "type": "url",
+               "url": "https://www.livecoinwatch.com/"
+            }, {
+               "date_added": "13374873358000000",
+               "date_last_used": "0",
+               "guid": "1be2cd6a-ce2e-490f-94ba-0e033b7ea93e",
+               "id": "222",
+               "name": "Trading View",
+               "type": "url",
+               "url": "https://fr.tradingview.com/chart/5ni9BQrx/?symbol=BITSTAMP%3ABTCUSD"
+            }, {
+               "date_added": "13378317905000000",
+               "date_last_used": "0",
+               "guid": "9803cc6d-f257-4ddf-8dfb-3e52e43bf72a",
+               "id": "223",
+               "name": "Hats Finance",
+               "type": "url",
+               "url": "https://hats.finance/"
+            }, {
+               "date_added": "13378433407000000",
+               "date_last_used": "13385145359262091",
+               "guid": "9740e4fd-f9af-4528-ade3-ed4daa9ab744",
+               "id": "224",
+               "name": "Arrow Markets",
+               "type": "url",
+               "url": "https://arrow.markets/"
+            }, {
+               "date_added": "13382727852000000",
+               "date_last_used": "13386098543154080",
+               "guid": "577c24db-5f7f-49e4-9367-16857156c3dd",
+               "id": "225",
+               "name": "Taopill",
+               "type": "url",
+               "url": "https://taopill.ai/"
+            }, {
+               "date_added": "13382231653000000",
+               "date_last_used": "0",
+               "guid": "94a9d30d-28f9-4de2-b95b-8895351ed386",
+               "id": "320",
+               "name": "Crankk (CRKK) live coin price, charts, markets & liquidity",
+               "type": "url",
+               "url": "https://www.livecoinwatch.com/price/Crankk-CRKK"
+            }, {
+               "date_added": "13386937526284313",
+               "date_last_used": "0",
+               "guid": "f4f71718-54fd-4384-84e7-e23f4e8aa279",
+               "id": "348",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "TAO.BOT - Your Gateway to Bittensor",
+               "type": "url",
+               "url": "https://www.tao.bot/"
+            }, {
+               "date_added": "13386335238638997",
+               "date_last_used": "13389981523639625",
+               "guid": "67370d07-b6de-43cf-93f1-96f0e9de7223",
+               "id": "346",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "TAO.app",
+               "type": "url",
+               "url": "https://www.tao.app/"
+            }, {
+               "date_added": "13387280912269497",
+               "date_last_used": "13388263839048844",
+               "guid": "21bc6377-4d31-4ff4-a174-c410c0ff6fb2",
+               "id": "351",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Root Proportion | Concept | Learn Bittensor",
+               "type": "url",
+               "url": "https://learnbittensor.org/explore/concept/root-proportion"
+            }, {
+               "date_added": "13388838778755186",
+               "date_last_used": "0",
+               "guid": "451e08d0-d19a-449d-b0c2-391262803135",
+               "id": "388",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Backprop Finance",
+               "type": "url",
+               "url": "https://backprop.finance/dtao/dashboard"
+            }, {
+               "date_added": "13388850890260386",
+               "date_last_used": "13389096835389618",
+               "guid": "756826a9-b2ca-4c70-86e3-97a92e835861",
+               "id": "390",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "MindMap Subnet",
+               "type": "url",
+               "url": "https://xmind.ai/share/aDEFBhk7?xid=XHSDe3tK"
+            }, {
+               "date_added": "13388924402927749",
+               "date_last_used": "13389979698058454",
+               "guid": "6daa2c32-92a0-4b87-90b1-a6a5de0721d8",
+               "id": "392",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Portfolio TAO",
+               "type": "url",
+               "url": "https://www.tao.app/portfolio?coldkey=5GMzWjQoDskkgMq3f8TrdFWmpcDDEHWD4oRMkmkH79KFd7ew"
+            }, {
+               "date_added": "13389188180865427",
+               "date_last_used": "13389548933638361",
+               "guid": "12ab6215-f330-41af-889f-90426cb2bd43",
+               "id": "397",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "IBC Eureka",
+               "type": "url",
+               "url": "https://go.cosmos.network/"
+            }, {
+               "date_added": "13389871910736995",
+               "date_last_used": "0",
+               "guid": "0578ee3b-fe35-4604-909d-006a4f420111",
+               "id": "403",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "TaoFi",
+               "type": "url",
+               "url": "https://www.taofi.com/bridge"
+            }, {
+               "date_added": "13389984295325356",
+               "date_last_used": "0",
+               "guid": "104568cb-cb05-42d4-976c-abf389fbff72",
+               "id": "405",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Rango Exchange | Fast, Secure Cross-Chain Swap and Bridge",
+               "type": "url",
+               "url": "https://app.rango.exchange/bridge?fromBlockchain=BTC&fromToken=BTC&toBlockchain=STARKNET&toToken=USDC--0x53c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8"
+            } ],
+            "date_added": "13383748412462156",
+            "date_last_used": "0",
+            "date_modified": "13389984298661254",
+            "guid": "adcf1c2a-518e-4a22-bf76-742830e807b0",
+            "id": "119",
+            "name": "Crypto",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13356056310000000",
+               "date_last_used": "0",
+               "guid": "70409dbd-0ce9-4496-8fcb-bd5b3e99740e",
+               "id": "234",
+               "name": "Snapstore",
+               "type": "url",
+               "url": "https://snapcraft.io/store"
+            }, {
+               "date_added": "13356295947000000",
+               "date_last_used": "13388705840117502",
+               "guid": "0f78bfb3-ba9c-4e81-a697-c10bf22784e1",
+               "id": "235",
+               "name": "ProtonDB",
+               "type": "url",
+               "url": "https://www.protondb.com/"
+            }, {
+               "date_added": "13358555265000000",
+               "date_last_used": "13389995719932316",
+               "guid": "d2fd0c3e-9401-4db3-a424-ca425ab61ec0",
+               "id": "236",
+               "name": "Doc Ubuntu FR",
+               "type": "url",
+               "url": "https://doc.ubuntu-fr.org/accueil"
+            }, {
+               "date_added": "13368708682000000",
+               "date_last_used": "0",
+               "guid": "9dcfd365-e381-4819-9164-dd164518290d",
+               "id": "237",
+               "name": "ROMs",
+               "type": "url",
+               "url": "https://r-roms.gitlab.io/megathread/"
+            }, {
+               "date_added": "13370645838000000",
+               "date_last_used": "13386966928463345",
+               "guid": "95c26197-8f5d-4562-bff9-34c9af1e706f",
+               "id": "238",
+               "name": "Top des meilleurs jeux de la PlayStation 2 (PS2)",
+               "type": "url",
+               "url": "https://www.senscritique.com/top/resultats/les_meilleurs_jeux_de_la_play_station_2_ps2/188431"
+            }, {
+               "date_added": "13370645932000000",
+               "date_last_used": "13386808623230280",
+               "guid": "33dabc30-4215-4c04-9c3d-a115208690d9",
+               "id": "239",
+               "name": "Top des meilleurs jeux de la PlayStation 3 (PS3)",
+               "type": "url",
+               "url": "https://www.senscritique.com/top/resultats/les_meilleurs_jeux_de_la_play_station_3_ps3/188433"
+            }, {
+               "date_added": "13375883667000000",
+               "date_last_used": "0",
+               "guid": "e81fdfa2-88d4-4547-b2bd-84e3adff5ff9",
+               "id": "240",
+               "name": "Troubleshooting Hitman 3 on Linux - Hitman: World of Assassination - Hitman Forum",
+               "type": "url",
+               "url": "https://www.hitmanforum.com/t/troubleshooting-hitman-3-on-linux/4729"
+            }, {
+               "date_added": "13377300455000000",
+               "date_last_used": "0",
+               "guid": "e931fea9-b634-4bd3-8648-c19e78ac244c",
+               "id": "241",
+               "name": "Jouer à Pharaon en français et en haute résolution",
+               "type": "url",
+               "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1522702617"
+            }, {
+               "date_added": "13380396360000000",
+               "date_last_used": "0",
+               "guid": "d47093f5-82b7-425b-9bec-4413fe2b5f9c",
+               "id": "242",
+               "name": "Setting up GPU passthrough with KVM on Ubuntu for Windows - Posts - Tek.Place",
+               "type": "url",
+               "url": "https://tek.place/en/posts/2024/02/setting-up-gpu-passthrough-with-kvm-on-ubuntu-for-windows/#installing-windows"
+            } ],
+            "date_added": "13383748412463016",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "afdb1a24-ff88-407c-984f-c3c0250a6869",
+            "id": "233",
+            "name": "Linux",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13373764680000000",
+               "date_last_used": "13389221211075423",
+               "guid": "0826bcfb-4bce-4176-bc0f-4bffcad6020e",
+               "id": "322",
+               "name": "Finary Améliorations",
+               "type": "url",
+               "url": "https://finarywealth.notion.site/Finary-Roadmap-publique-d7b515028f254e21bc198a9d9d819821"
+            }, {
+               "date_added": "13373764230000000",
+               "date_last_used": "13389221211718621",
+               "guid": "cb189e60-07d0-464e-845d-b83bcb102bae",
+               "id": "323",
+               "name": "Deblock Améliorations",
+               "type": "url",
+               "url": "https://next.deblock.com/?order=trending&filter=underdevelopment&tag="
+            }, {
+               "date_added": "13340215240000000",
+               "date_last_used": "13389221211085999",
+               "guid": "6b3c2f1e-3082-4e55-a12d-28cab007f643",
+               "id": "324",
+               "name": "EPSI NANTES",
+               "type": "url",
+               "url": "https://reseau-cd.360learning.com/home/content/all"
+            }, {
+               "date_added": "13268699862000000",
+               "date_last_used": "0",
+               "guid": "5caa9128-af05-4bc7-a383-3b592c9e18c2",
+               "id": "325",
+               "name": "Bouygues Telecom",
+               "type": "url",
+               "url": "https://www.bouyguestelecom.fr/"
+            }, {
+               "date_added": "13375891572000000",
+               "date_last_used": "0",
+               "guid": "64b95128-bc03-4d11-bf95-4e179c582b4f",
+               "id": "326",
+               "name": "Musculation",
+               "type": "url",
+               "url": "https://www.akelys.com/exercices/programmes/programme_musculation.html"
+            }, {
+               "date_added": "13378930330000000",
+               "date_last_used": "0",
+               "guid": "b416361a-8362-4ddc-aac2-cfd314de6f0a",
+               "id": "327",
+               "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen » Chapitre 17 VF | Scan-Manga",
+               "type": "url",
+               "url": "https://www.scan-manga.com/lecture-en-ligne/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-2-nensei-hen-Chapitre-17-FR_386677.html"
+            }, {
+               "date_added": "13379016500000000",
+               "date_last_used": "0",
+               "guid": "5602660c-e38c-4dfb-a9cd-61c50059649f",
+               "id": "328",
+               "name": "King's Avatar par Joras - Dailymotion",
+               "type": "url",
+               "url": "https://www.dailymotion.com/playlist/x8iw2i"
+            }, {
+               "date_added": "13383676586000000",
+               "date_last_used": "0",
+               "guid": "914b29c0-4a75-47ae-bdda-5966e232f270",
+               "id": "329",
+               "name": "Echo",
+               "type": "url",
+               "url": "https://app.echo.xyz/setup"
+            }, {
+               "children": [ {
+                  "date_added": "13349995436000000",
+                  "date_last_used": "0",
+                  "guid": "d8afaaca-3bed-484f-a36b-4b34f11e2143",
+                  "id": "227",
+                  "name": "talent.io | Trouve ton prochain job dans la tech",
+                  "type": "url",
+                  "url": "https://www.talent.io/p/fr-fr/home"
+               }, {
+                  "date_added": "13375993641000000",
+                  "date_last_used": "0",
+                  "guid": "3b5052b2-04a9-441a-9cb3-980917234a0c",
+                  "id": "229",
+                  "name": "France Travail",
+                  "type": "url",
+                  "url": "https://candidat.francetravail.fr/tableaudebord/"
+               }, {
+                  "date_added": "13381579574000000",
+                  "date_last_used": "0",
+                  "guid": "66149b02-bbea-4cf7-be16-05af29488585",
+                  "id": "230",
+                  "name": "Offres d’emploi cadres, Conseils, Recrutement | Apec",
+                  "type": "url",
+                  "url": "https://www.apec.fr/"
+               } ],
+               "date_added": "13383748412462956",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "fc94a841-8e7e-4d68-a037-ff8f8ce0d2ef",
+               "id": "226",
+               "name": "Offres Travail",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13380476198000000",
+                  "date_last_used": "0",
+                  "guid": "c3f2da72-74a2-422e-9c78-e6c834979d85",
+                  "id": "277",
+                  "name": "Programme immobilier Rêves de l'Erdre à Nantes : 24 biens neufs - 225 000 à 495 000 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/programme/1,4piece/ubiflow-neuf-401980776?q=%2Frecherche%2Fachat%2Fnantes-44000%2Creze-44400%2Csaint-sebastien-sur-loire-44230%3Fsurface-max%3D70%26tri%3Dprix-desc"
+               }, {
+                  "date_added": "13380476057000000",
+                  "date_last_used": "0",
+                  "guid": "715b74bd-0711-4a93-8e56-06bd230e86e8",
+                  "id": "278",
+                  "name": "Achat appartement neuf 3 pièces 63 m²",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/appartement/3pieces/visiteonline-l_10908453?q=%2Frecherche%2Fachat%2Fnantes-44000%2Creze-44400%2Csaint-sebastien-sur-loire-44230%3Fsurface-max%3D70%26tri%3Dprix-desc"
+               }, {
+                  "date_added": "13380476234000000",
+                  "date_last_used": "0",
+                  "guid": "653057e2-6448-4d40-85ac-986c0ab365a1",
+                  "id": "279",
+                  "name": "Achat appartement 4 pièces 69 m², Nantes - 398 475 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/appartement/4pieces/netty-ang-appt-3894?q=%2Frecherche%2Fachat%2Fnantes-44000%2Creze-44400%2Csaint-sebastien-sur-loire-44230%3Fsurface-max%3D70%26page%3D2%26tri%3Dprix-desc"
+               }, {
+                  "date_added": "13380476539000000",
+                  "date_last_used": "0",
+                  "guid": "bdd7a8a3-35df-4017-9f76-a34e7b74f9b9",
+                  "id": "280",
+                  "name": "Achat appartement 3 pièces 70 m², Nantes - 376 000 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/appartement/3pieces/ag443328-447860828?q=%2Frecherche%2Fachat%2Fnantes-44000%2Creze-44400%2Csaint-sebastien-sur-loire-44230%3Fsurface-max%3D70%26page%3D2%26tri%3Dprix-desc"
+               }, {
+                  "date_added": "13380476551000000",
+                  "date_last_used": "0",
+                  "guid": "2a2c2612-488b-4df7-97f2-ad9774f92208",
+                  "id": "281",
+                  "name": "Achat appartement 3 pièces 63 m², Nantes - 376 500 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/appartement/3pieces/hektor-gguerlesquin-4171?q=%2Frecherche%2Fachat%2Fnantes-44000%2Creze-44400%2Csaint-sebastien-sur-loire-44230%3Fsurface-max%3D70%26page%3D2%26tri%3Dprix-desc"
+               }, {
+                  "date_added": "13380476559000000",
+                  "date_last_used": "0",
+                  "guid": "8d670970-8db0-4b5f-b3e6-b90b22aad383",
+                  "id": "282",
+                  "name": "Programme immobilier Nantes à deux pas du centre commercial Beaulieu à Nantes - 225 000 à 695 000 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/programme/2,4piece/visiteonline-p_5764178?q=%2Frecherche%2Fachat%2Fnantes-44000%2Creze-44400%2Csaint-sebastien-sur-loire-44230%3Fsurface-max%3D70%26page%3D2%26tri%3Dprix-desc"
+               }, {
+                  "date_added": "13380476600000000",
+                  "date_last_used": "0",
+                  "guid": "1bfa1ecf-42a5-4274-ba18-a468ceaa9800",
+                  "id": "283",
+                  "name": "Achat appartement 2 pièces 40 m², Nantes - 174 150 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/appartement/2pieces/ag442891-451273874?q=%2Frecherche%2Fachat%2Fnantes-44000%3Fsurface-max%3D70%26tri%3Dprix-desc"
+               }, {
+                  "date_added": "13380476645000000",
+                  "date_last_used": "0",
+                  "guid": "e2a0d35b-67b3-44d7-97c9-1b896f7e681b",
+                  "id": "284",
+                  "name": "Achat appartement 3 pièces 67 m², Nantes - 379 000 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/appartement/3pieces/gedeon-29986911?q=%2Frecherche%2Fachat%2Fnantes-44000%3Fsurface-max%3D70%26tri%3Dprix-desc%26camera%3D18_-1.5656189_47.2247487_45_0"
+               }, {
+                  "date_added": "13380476655000000",
+                  "date_last_used": "0",
+                  "guid": "9652988e-ecc7-48a5-b498-6737b813b8fa",
+                  "id": "285",
+                  "name": "Achat appartement 3 pièces 67 m², Nantes - 370 000 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/appartement/3pieces/ag443328-404648571?q=%2Frecherche%2Fachat%2Fnantes-44000%3Fsurface-max%3D70%26tri%3Dprix-desc%26camera%3D18_-1.5656189_47.2247487_45_0"
+               }, {
+                  "date_added": "13380476721000000",
+                  "date_last_used": "0",
+                  "guid": "77e689d5-e937-4d0c-b45b-548e7a6a3fcc",
+                  "id": "286",
+                  "name": "Achat appartement 3 pièces 66 m², Nantes - 371 000 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/appartement/3pieces/nestenn-1-99939000544?q=%2Frecherche%2Fachat%2Fnantes-44000%3Fsurface-max%3D70%26tri%3Dprix-desc%26camera%3D18_-1.5656189_47.2247487_45_0"
+               }, {
+                  "date_added": "13380476750000000",
+                  "date_last_used": "0",
+                  "guid": "249bf289-fb70-4716-b995-c340654dd9d9",
+                  "id": "287",
+                  "name": "Programme immobilier Nantes quartier Viarme - Hauts Pavés à Nantes - 325 000 à 525 000 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/programme/2,3piece/visiteonline-p_5657588?q=%2Frecherche%2Fachat%2Fnantes-44000%3Fsurface-max%3D70%26tri%3Dprix-desc%26camera%3D18_-1.567727_47.2261561_45_0"
+               }, {
+                  "date_added": "13380476786000000",
+                  "date_last_used": "0",
+                  "guid": "123018bb-1883-4eca-bb3f-05395da7d842",
+                  "id": "288",
+                  "name": "Vente Duplex d'exception au Passage Pommeraye à Nantes à Nantes - 118 m2 - Espaces Atypiques Nantes",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/44000-nantes-duplex-dexception-118-m2-passage-pommeraye-nantes-1724-3/"
+               }, {
+                  "date_added": "13380504162000000",
+                  "date_last_used": "0",
+                  "guid": "e06b25fb-93d0-45ba-a7ff-e1ab513b3d15",
+                  "id": "289",
+                  "name": "Achat maison 8 pièces 243 m², La Chapelle-sur-Erdre - 1 099 000 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/la-chapelle-sur-erdre/maison/8pieces/immo-facile-57082984?q=%2Frecherche%2Fachat%2Ffrance%3Ftri%3Dprix-desc%26camera%3D17_-1.5242875_47.29149_45_0"
+               }, {
+                  "date_added": "13380653191000000",
+                  "date_last_used": "0",
+                  "guid": "4950003f-db0f-462d-be03-1b465646a937",
+                  "id": "290",
+                  "name": "Achat appartement neuf 3 pièces 63 m², Nantes - 485 000 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/nantes/appartement/3pieces/visiteonline-l_10908453?q=%2Frecherche%2Fachat%2Fnantes-44000%2Creze-44400%2Csaint-sebastien-sur-loire-44230%3Fsurface-max%3D70%26tri%3Dprix-desc"
+               }, {
+                  "date_added": "13380504363000000",
+                  "date_last_used": "0",
+                  "guid": "035a6cdb-78bf-4e96-a1ac-e76edd675510",
+                  "id": "291",
+                  "name": "Appartement de luxe à vendre à Nantes | 534 500 € | 4 Pièces | 85,05 m² - Belles Demeures",
+                  "type": "url",
+                  "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-42052/226158979/?idtt=2&pl=18168%2c18202%2c18249%2c18274&tri=selection&surfacemax=90&m=search_to_detail"
+               }, {
+                  "date_added": "13380477046000000",
+                  "date_last_used": "0",
+                  "guid": "30cac801-f04f-40f5-b868-f2a7c94fbff3",
+                  "id": "292",
+                  "name": "Vente Quartier Montsouris, Atelier d'artistes en duplex à PARIS - 64.59 m2 - Espaces Atypiques Paris – Rive gauche",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/75014-paris-quartier-montsouris-atelier-dartistes-en-duplex-6223/"
+               }, {
+                  "date_added": "13380505589000000",
+                  "date_last_used": "0",
+                  "guid": "66953850-5f16-4979-a8c4-44a51cb6e80e",
+                  "id": "293",
+                  "name": "Vente Faubourg Saint-Germain, dans le carré des antiquaires, dernier étage avec terrasse à PARIS - 75.16 m2 - Espaces Atypiques Paris – Rive gauche",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/75007-paris-faubourg-saint-germain-dans-le-carre-des-antiquaires-dernier-etage-avec-terrasse-7925/"
+               }, {
+                  "date_added": "13380505609000000",
+                  "date_last_used": "0",
+                  "guid": "5c9d74bb-80d0-4b9e-89d8-2122a379da6d",
+                  "id": "294",
+                  "name": "Vente Appartement de charme rénové par architecte à PARIS - 65.53 m2 - Espaces Atypiques Paris – Rive droite",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/75003-paris-appartement-de-charme-renove-par-architecte-8766/"
+               }, {
+                  "date_added": "13380505633000000",
+                  "date_last_used": "0",
+                  "guid": "86a06e3d-aded-4bdf-a2ea-c9d4a10363e6",
+                  "id": "295",
+                  "name": "Vente Appartement rénové en plein coeur du quartier Saint-Paul à PARIS - 52.29 m2 - Espaces Atypiques Paris – Rive droite",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/75004-paris-appartement-renove-en-plein-coeur-du-quartier-saint-paul-8671/"
+               }, {
+                  "date_added": "13380505660000000",
+                  "date_last_used": "0",
+                  "guid": "86fd00db-8f38-45dc-8841-ed91e86fa821",
+                  "id": "296",
+                  "name": "Vente Atelier d'artiste en duplex au dernier étage à PARIS - 68.48 m2 - Espaces Atypiques Paris – Rive gauche",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/75014-paris-atelier-dartiste-en-duplex-au-dernier-etage-8729/"
+               }, {
+                  "date_added": "13380505787000000",
+                  "date_last_used": "0",
+                  "guid": "7d0957bd-26ee-4036-b4d4-dd0c9284bb8f",
+                  "id": "297",
+                  "name": "Vente Quartier latin, proche des bords de Seine appartement au dernier étage avec véranda à PARIS - 36.23 m2 - Espaces Atypiques Paris – Rive gauche",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/75005-paris-quartier-latin-proche-des-bords-de-seine-appartement-au-dernier-etage-avec-veranda-6399/"
+               }, {
+                  "date_added": "13380505806000000",
+                  "date_last_used": "0",
+                  "guid": "0425f648-51d4-4864-8164-c96d26677e04",
+                  "id": "298",
+                  "name": "Vente Appartement rénové avec balcon filant aux Abbesses à PARIS - 46.10 m2 - Espaces Atypiques Paris – Ouest",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/75018-paris-appartement-renove-avec-balcon-filant-aux-abbesses-7849/"
+               }, {
+                  "date_added": "13380505833000000",
+                  "date_last_used": "0",
+                  "guid": "71c903d1-6683-4d6e-a746-32d1471df5ce",
+                  "id": "299",
+                  "name": "Vente Appartement avec Jacuzzi proche du Canal Saint Martin à PARIS - 42 m2 - Espaces Atypiques Paris – Rive droite",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/75010-paris-appartement-avec-jacuzzi-proche-du-canal-saint-martin-8353/"
+               }, {
+                  "date_added": "13381450146000000",
+                  "date_last_used": "13384863364554321",
+                  "guid": "d8ac3ce9-543c-4a77-b588-0af1f2cffdf1",
+                  "id": "300",
+                  "name": "Appartement de luxe à vendre à la La Rochelle | 1 113 000 € | 6 Pièces | 121 m² - Belles Demeures",
+                  "type": "url",
+                  "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-40111/232459391/?idtt=2&pl=6870&tri=prixdecroissant&idtb=1&m=search_to_detail"
+               }, {
+                  "date_added": "13381450195000000",
+                  "date_last_used": "0",
+                  "guid": "60b84c8d-5b05-42c5-a2a7-111f44126248",
+                  "id": "301",
+                  "name": "Appartement de luxe à vendre à la La Rochelle | 1 680 000 € | 5 Pièces | 197 m² - Belles Demeures",
+                  "type": "url",
+                  "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-6870/214464099/?idtt=2&pl=333&tri=prixdecroissant&idtb=1&page=2&m=search_to_detail"
+               }, {
+                  "date_added": "13381450238000000",
+                  "date_last_used": "0",
+                  "guid": "a92474dd-134e-4269-9d8c-a50f4dca36f5",
+                  "id": "302",
+                  "name": "Appartement de luxe à vendre à la La Rochelle | 1 942 500 € | 4 Pièces | 148 m² - Belles Demeures",
+                  "type": "url",
+                  "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-40120/222232779/?idtt=2&pl=6870&tri=prixdecroissant&idtb=1&m=search_to_detail"
+               }, {
+                  "date_added": "13381450279000000",
+                  "date_last_used": "0",
+                  "guid": "c0da1a4f-d648-47ed-9305-e5da207d4f3b",
+                  "id": "303",
+                  "name": "Appartement de luxe à vendre à la La Rochelle | 1 680 000 € | 5 Pièces | 198 m² - Belles Demeures",
+                  "type": "url",
+                  "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-40120/220657497/?idtt=2&pl=6870&tri=prixdecroissant&idtb=1&m=search_to_detail"
+               }, {
+                  "date_added": "13381450324000000",
+                  "date_last_used": "0",
+                  "guid": "47051624-b733-41c8-bde5-5ddacba87013",
+                  "id": "304",
+                  "name": "Appartement de luxe à vendre à la La Rochelle | 1 470 000 € | 4 Pièces | 180 m² - Belles Demeures",
+                  "type": "url",
+                  "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-40111/232113309/?idtt=2&pl=6870&tri=prixdecroissant&idtb=1&m=search_to_detail"
+               }, {
+                  "date_added": "13381450423000000",
+                  "date_last_used": "0",
+                  "guid": "2a87ac96-6c27-4fe1-bf03-0582c1336df4",
+                  "id": "305",
+                  "name": "Appartement de luxe à vendre aux Les Sables-d'Olonne | 1 379 400 € | 5 Pièces | 130 m² - Belles Demeures",
+                  "type": "url",
+                  "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-46340/232046297/?idtt=2&pl=333&tri=prixdecroissant&idtb=1&m=search_to_detail"
+               }, {
+                  "date_added": "13381450818000000",
+                  "date_last_used": "0",
+                  "guid": "442b7592-b280-43a2-a2ed-5fcf6dfac357",
+                  "id": "306",
+                  "name": "Appartement de luxe à vendre à Nantes | 559 000 € | 6 Pièces | 123 m² - Belles Demeures",
+                  "type": "url",
+                  "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-42047/214715127/?idtt=2&pl=18168&tri=prixdecroissant&idtb=1&page=4&m=search_to_detail"
+               }, {
+                  "date_added": "13381450993000000",
+                  "date_last_used": "0",
+                  "guid": "d6e10c86-6c37-4565-b01d-6bdf73a3af4f",
+                  "id": "307",
+                  "name": "Appartement de luxe à vendre à Nantes | 534 500 € | 4 Pièces | 85,05 m² - Belles Demeures",
+                  "type": "url",
+                  "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-42052/226158979/?idtt=2&pl=18168&tri=prixdecroissant&idtb=1%2c2%2c13%2c9%2c14&idstb=28%2c27%2c52%2c66%2c42&surfacemax=90&m=search_to_detail"
+               }, {
+                  "date_added": "13381451189000000",
+                  "date_last_used": "0",
+                  "guid": "c68a7ef2-eb8f-4a1a-b214-af97fbc24b8f",
+                  "id": "308",
+                  "name": "Appartement de luxe à vendre à Nantes | 2 080 000 € | 5 Pièces | 180 m² - Belles Demeures",
+                  "type": "url",
+                  "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-48602/227389577/?idtt=2&pl=18168&tri=prixdecroissant&idtb=1&m=search_to_detail"
+               }, {
+                  "date_added": "13381504454000000",
+                  "date_last_used": "0",
+                  "guid": "4695ac9d-9883-4006-9601-89fdf2b478d8",
+                  "id": "309",
+                  "name": "Vente Appartement de charme entièrement restauré au coeur de Graslin à NANTES - 165.53 m2 - Espaces Atypiques Nantes",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/44000-nantes-2143-2/"
+               }, {
+                  "date_added": "13381504572000000",
+                  "date_last_used": "0",
+                  "guid": "90f7cb06-8718-4a68-89ad-ed686beff474",
+                  "id": "310",
+                  "name": "Vente Maison de ville charmante au cœur de Toutes aides à NANTES - 186 m2 - Espaces Atypiques Nantes",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/44000-nantes-maison-de-ville-charmante-au-coeur-de-toutes-aides-2312/"
+               }, {
+                  "date_added": "13381504638000000",
+                  "date_last_used": "0",
+                  "guid": "30373124-b6fa-4e82-ba05-2e501159469b",
+                  "id": "311",
+                  "name": "Vente Dernier étage quartier St Donatien avec rooftop, 3 chambres à NANTES - 110.57 m2 - Espaces Atypiques Nantes",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/44000-nantes-dernier-etage-quartier-st-donatien-avec-rooftop-3-chambres-2389-1/"
+               }, {
+                  "date_added": "13381504699000000",
+                  "date_last_used": "0",
+                  "guid": "0e06a59d-909d-47b4-becc-ff980731f4a4",
+                  "id": "312",
+                  "name": "Vente Beau duplex avec vue quartier Saint Donatien à NANTES - 102.64 m2 - Espaces Atypiques Nantes",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/44000-nantes-beau-duplex-avec-vue-quartier-saint-donatien-2389-2/"
+               }, {
+                  "date_added": "13381504850000000",
+                  "date_last_used": "0",
+                  "guid": "a6024e32-53a7-4891-9051-04ab5d0c741f",
+                  "id": "313",
+                  "name": "Vente Charmant duplex au dernier étage, belle terrasse arborée. à NANTES - 70.66 m2 - Espaces Atypiques Nantes",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/44100-nantes-charmant-duplex-au-dernier-etage-belle-terrasse-arboree-2316/"
+               }, {
+                  "date_added": "13381504929000000",
+                  "date_last_used": "0",
+                  "guid": "7461e456-eae6-49c2-99ab-df8c301398de",
+                  "id": "314",
+                  "name": "Vente Superbe appartement rénové avec vue unique sur le château à NANTES - 92.56 m2 - Espaces Atypiques Nantes",
+                  "type": "url",
+                  "url": "https://www.espaces-atypiques.com/ventes/44000-nantes-superbe-appartement-renove-avec-vue-unique-sur-le-chateau-2160-2/"
+               }, {
+                  "date_added": "13382742716000000",
+                  "date_last_used": "0",
+                  "guid": "a9bb456d-be62-406b-9417-21d6f03c49d0",
+                  "id": "315",
+                  "name": "Achat appartement neuf 2 pièces 43 m² - 260 000 €",
+                  "type": "url",
+                  "url": "https://www.bienici.com/annonce/vente/appartement/2pieces/ubiflow-neuf-401980776_lots_VE1302-206?q=%2Frecherche%2Fachat%2Fnantes-44000%2Csaint-sebastien-sur-loire-44230%2Cvertou-44120%2Ccarquefou-44470%2Csainte-luce-sur-loire-44980%2Csaint-herblain-44800%2Creze-44400%2Cbouguenais-44340%3Fsurface-max%3D70%26tri%3Dprix-desc"
+               } ],
+               "date_added": "13383748412463575",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "198ffa2d-ecd1-412e-950d-08b32c91c48b",
+               "id": "276",
+               "name": "Immobilier",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13376440675000000",
+                  "date_last_used": "0",
+                  "guid": "5d51811f-a320-4b93-a163-50ff0f162093",
+                  "id": "244",
+                  "name": "Veste Adidas Wales Bonner",
+                  "type": "url",
+                  "url": "https://www.titoloshop.com/eu_fr/wales-bonner-x-adidas-reversible-harris-jacket-iw3601.html"
+               }, {
+                  "date_added": "13376440691000000",
+                  "date_last_used": "0",
+                  "guid": "400ca2fd-5f0c-4cce-82cc-e8dd0a56b5b3",
+                  "id": "245",
+                  "name": "Adidas Polo Noir",
+                  "type": "url",
+                  "url": "https://www.titoloshop.com/eu_fr/adidas-longsleeve-polo-iy9955.html"
+               }, {
+                  "date_added": "13376440722000000",
+                  "date_last_used": "0",
+                  "guid": "fad2c759-3c23-47c7-94ce-69b1fe66d6c8",
+                  "id": "246",
+                  "name": "Adidas Polo Blanc",
+                  "type": "url",
+                  "url": "https://www.titoloshop.com/eu_fr/adidas-longsleeve-polo-iz3184.html"
+               }, {
+                  "date_added": "13376440744000000",
+                  "date_last_used": "0",
+                  "guid": "793b957c-8ad7-4713-90e3-26ddf579272c",
+                  "id": "247",
+                  "name": "Polo Manche Longue Adidas",
+                  "type": "url",
+                  "url": "https://www.zalando.fr/adidas-originals-rugby-polo-preloved-brown-ad122p01p-o11.html"
+               }, {
+                  "date_added": "13376440904000000",
+                  "date_last_used": "0",
+                  "guid": "eb985c3e-c57e-4bf3-b110-a234d67855a8",
+                  "id": "248",
+                  "name": "Dr. Martens ADRIAN BEX SMOOTH UNISEX",
+                  "type": "url",
+                  "url": "https://www.zalando.fr/dr-martens-adrian-bex-smooth-unisex-mocassins-black-do215c014-q11.html"
+               }, {
+                  "date_added": "13376441305000000",
+                  "date_last_used": "0",
+                  "guid": "38e0ebd9-72e5-4288-9290-9ab04cdefce0",
+                  "id": "249",
+                  "name": "T-shirt à manches longues STRIPE",
+                  "type": "url",
+                  "url": "https://www.zalando.fr/selected-homme-slhboxy-rugby-stripe-polo-dark-sapphireegret-se622p06r-k11.html"
+               }, {
+                  "date_added": "13376441325000000",
+                  "date_last_used": "0",
+                  "guid": "7e4a6852-25e5-40e6-8675-01aea170724a",
+                  "id": "250",
+                  "name": "Polo manche longues VANS",
+                  "type": "url",
+                  "url": "https://www.zalando.fr/vans-t-shirt-a-manches-longues-green-gables-va222p009-m11.html"
+               }, {
+                  "date_added": "13376447211000000",
+                  "date_last_used": "0",
+                  "guid": "5c7d0dc2-ab57-43fd-aa8d-18ea774b60e5",
+                  "id": "251",
+                  "name": "Polo molletonné à manches longues - Kaki",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/only-sons/only-sons-polo-molletonne-a-manches-longues-kaki/prd/205360374#colourWayId-205360376"
+               }, {
+                  "date_added": "13376447232000000",
+                  "date_last_used": "0",
+                  "guid": "5d2bb82b-c74b-421c-8f9c-5e2de9afbb27",
+                  "id": "252",
+                  "name": "Polo en maille à manches longues - Blanc cassé",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/only-sons/only-sons-polo-en-maille-a-manches-longues-blanc-casse/prd/203998692#colourWayId-203998715"
+               }, {
+                  "date_added": "13376447263000000",
+                  "date_last_used": "0",
+                  "guid": "7519e0c3-e330-4903-a6be-69788066bbad",
+                  "id": "253",
+                  "name": "Polo décontracté style rugby - Beige",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/only-sons/only-sons-polo-decontracte-style-rugby-beige/prd/205789278#colourWayId-205789286"
+               }, {
+                  "date_added": "13376447275000000",
+                  "date_last_used": "0",
+                  "guid": "90d79893-c428-4606-9f8b-843f8baa234c",
+                  "id": "254",
+                  "name": "Polo de rugby décontracté en maille bouclée - Bleu marine",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/asos-design/asos-design-polo-de-rugby-decontracte-en-maille-bouclee-bleu-marine/prd/206771815#colourWayId-206771818"
+               }, {
+                  "date_added": "13376447304000000",
+                  "date_last_used": "0",
+                  "guid": "d3f73681-2d21-44c8-899c-9486aac6b5aa",
+                  "id": "255",
+                  "name": "Pull rétro à col polo ASOS",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/bershka/bershka-pull-retro-a-col-polo-noir-et-blanc/prd/207289033#colourWayId-207289041"
+               }, {
+                  "date_added": "13376447890000000",
+                  "date_last_used": "0",
+                  "guid": "79727127-0c6d-483e-bc0d-4d84b5338e6d",
+                  "id": "256",
+                  "name": "Blouson Harrington en cuir véritable - Marron | ASOS",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/asos-design/asos-design-premium-blouson-harrington-en-cuir-veritable-marron/prd/206373624#colourWayId-206373625"
+               }, {
+                  "date_added": "13376448476000000",
+                  "date_last_used": "0",
+                  "guid": "27a7cccd-8fe6-479f-b0ce-9ff1bad163a9",
+                  "id": "257",
+                  "name": "Sweat oversize coupe carrée - Noir | ASOS",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/asos-design/asos-design-essential-sweat-oversize-coupe-carree-noir/prd/206816052#colourWayId-206816054"
+               }, {
+                  "date_added": "13376448482000000",
+                  "date_last_used": "0",
+                  "guid": "b76e2585-cc38-4313-b36f-8ee52145b979",
+                  "id": "258",
+                  "name": "Sweat oversize coupe carrée en néoprène - Marron | ASOS",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/asos-design/asos-design-sweat-oversize-coupe-carree-en-neoprene-marron/prd/207161902#ctaref-more%20colours%20swatches&featureref1-more%20colours%20swatches"
+               }, {
+                  "date_added": "13376440671000000",
+                  "date_last_used": "0",
+                  "guid": "d0102a83-3949-44d7-a162-2207a02f1379",
+                  "id": "259",
+                  "name": "Adidas - Brands - Apparel - Men",
+                  "type": "url",
+                  "url": "https://www.titoloshop.com/eu_fr/men/apparel/adidas"
+               }, {
+                  "date_added": "13378328502000000",
+                  "date_last_used": "0",
+                  "guid": "564be025-3bc0-46a0-920b-d74bfddb09e1",
+                  "id": "264",
+                  "name": "Nike Nike San Antonio Spurs City Edition Men's Jacket Blue/Beige | BSTN Store",
+                  "type": "url",
+                  "url": "https://www.bstn.com/eu_fr/p/nike-nike-san-antonio-spurs-city-edition-men-s-jacket-fv9990-474-0314727?wgu=13355_214131_17338548933472_34cfa18e5e&wgexpiry=1765390893&p=webgains_fr&utm_source=webgains&utm_medium=affiliate&utm_campaign=214131"
+               }, {
+                  "date_added": "13379816864000000",
+                  "date_last_used": "0",
+                  "guid": "f7ed0250-7515-4a8e-856b-5592694e3f6c",
+                  "id": "265",
+                  "name": "PULL&BEAR WIDE- SMART - Pantalon classique - black/noir - ZALANDO.FR",
+                  "type": "url",
+                  "url": "https://www.zalando.fr/pullandbear-pantalon-classique-black-puc22e0f1-q11.html"
+               }, {
+                  "date_added": "13379816886000000",
+                  "date_last_used": "0",
+                  "guid": "6b74e76f-b96f-4c71-99c0-e76c11e32946",
+                  "id": "266",
+                  "name": "Bershka WIDE - Pantalon de survêtement - black/noir - ZALANDO.FR",
+                  "type": "url",
+                  "url": "https://www.zalando.fr/bershka-pantalon-classique-black-bej22e0er-q11.html"
+               }, {
+                  "date_added": "13379816925000000",
+                  "date_last_used": "0",
+                  "guid": "63d9561a-faeb-4de4-a9f2-4ac06892c981",
+                  "id": "267",
+                  "name": "Bershka TAILORED - Pantalon de survêtement - black/noir - ZALANDO.FR",
+                  "type": "url",
+                  "url": "https://www.zalando.fr/bershka-tailored-pantalon-classique-black-bej22e0ep-q11.html"
+               }, {
+                  "date_added": "13379816943000000",
+                  "date_last_used": "0",
+                  "guid": "7c9c53dc-15f7-4bd3-b46f-6ad8f951f86b",
+                  "id": "268",
+                  "name": "Mango LABELP - Pullover - medium heather grey/gris chiné - ZALANDO.FR",
+                  "type": "url",
+                  "url": "https://www.zalando.fr/mango-labelp-polo-medium-heather-grey-m9122s0j3-c11.html"
+               }, {
+                  "date_added": "13379816988000000",
+                  "date_last_used": "0",
+                  "guid": "88fbed72-8269-4199-91a3-2dc714eb9885",
+                  "id": "269",
+                  "name": "Lacoste BLOUSON Brown | BSTN Store",
+                  "type": "url",
+                  "url": "https://www.bstn.com/eu_fr/p/lacoste-blouson-bh4307-six-0312131"
+               }, {
+                  "date_added": "13379817307000000",
+                  "date_last_used": "0",
+                  "guid": "24184657-acbb-4cb4-9725-0fcb841041fe",
+                  "id": "270",
+                  "name": "Only & Sons - Polo en maille à manches longues - Beige | ASOS",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/only-sons/only-sons-polo-en-maille-a-manches-longues-beige/prd/204800345#colourWayId-204800358"
+               }, {
+                  "date_added": "13379817318000000",
+                  "date_last_used": "0",
+                  "guid": "39714fb8-2c78-46e9-8b7f-791f7706f118",
+                  "id": "271",
+                  "name": "Brave Soul - Polo manches longues en maille - Taupe | ASOS",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/brave-soul/brave-soul-polo-manches-longues-en-maille-taupe/prd/206175564#colourWayId-206175572"
+               }, {
+                  "date_added": "13379817326000000",
+                  "date_last_used": "0",
+                  "guid": "0dec7245-7dc3-4001-93db-db0fc2b24c09",
+                  "id": "272",
+                  "name": "ASOS DESIGN - Polo oversize coupe carrée en maille à manches longues et col contrastant - Marron | ASOS",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/asos-design/asos-design-polo-oversize-coupe-carree-en-maille-a-manches-longues-et-col-contrastant-marron/prd/207420334#colourWayId-207420335"
+               }, {
+                  "date_added": "13379817330000000",
+                  "date_last_used": "0",
+                  "guid": "3a581cc5-f0eb-4f3a-b9d9-13bf2b23d1c6",
+                  "id": "273",
+                  "name": "ASOS DESIGN - Polo décontracté coupe carrée en maille côtelée à manches longues et col cranté - Marron | ASOS",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/asos-design/asos-design-polo-decontracte-coupe-carree-en-maille-cotelee-a-manches-longues-et-col-crante-marron/prd/207444171#colourWayId-207444172"
+               }, {
+                  "date_added": "13379817347000000",
+                  "date_last_used": "0",
+                  "guid": "93e57761-cbcf-4dec-976f-cdd3c88612b7",
+                  "id": "274",
+                  "name": "adidas Originals - Polo manches longues - Marron dégradé | ASOS",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/adidas-originals/adidas-originals-polo-manches-longues-marron-degrade/prd/206614206#colourWayId-206614221"
+               }, {
+                  "date_added": "13379817385000000",
+                  "date_last_used": "0",
+                  "guid": "6d745ea6-b999-41b7-ab29-4f7572ea3cfb",
+                  "id": "275",
+                  "name": "Lacoste - Polo à manches longues - Beige | ASOS",
+                  "type": "url",
+                  "url": "https://www.asos.com/fr/lacoste/lacoste-polo-a-manches-longues-beige/prd/206990137#colourWayId-206990158"
+               } ],
+               "date_added": "13383748412463114",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "a63f183a-202c-4d2b-bbb1-6b16e1e8e62d",
+               "id": "243",
+               "name": "Vetements a acheter",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354565643000000",
+                  "date_last_used": "13383870130459889",
+                  "guid": "e1dcf5a3-9b2f-48ba-b95c-bae5c2169fdf",
+                  "id": "232",
+                  "name": "Comparateur Prix Composant PC",
+                  "type": "url",
+                  "url": "https://www.gputracker.eu/fr"
+               } ],
+               "date_added": "13383748412462998",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "5072e8f7-6656-4b73-9ce0-7f4d70ebaf40",
+               "id": "231",
+               "name": "Hardware",
+               "type": "folder"
+            } ],
+            "date_added": "13383748412464333",
+            "date_last_used": "0",
+            "date_modified": "13383785878051879",
+            "guid": "60d144ec-8670-4164-9b66-f290c4c9789c",
+            "id": "321",
+            "name": "Autre",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13388445393702508",
+               "date_last_used": "0",
+               "guid": "de1ebe01-b402-4d59-8ee1-b602aeca7017",
+               "id": "373",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Welcome to the Jungle - Le guide de l'emploi",
+               "type": "url",
+               "url": "https://www.welcometothejungle.com/fr"
+            }, {
+               "date_added": "13375323695000000",
+               "date_last_used": "0",
+               "guid": "df65edf5-5dfc-4b52-a871-f97776fcb029",
+               "id": "228",
+               "name": "Hellowork",
+               "type": "url",
+               "url": "https://www.hellowork.com/fr-fr/"
+            }, {
+               "date_added": "13388445424298814",
+               "date_last_used": "13389467046577974",
+               "guid": "e32e90c8-3112-4925-9fd2-1c199d007c6a",
+               "id": "374",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "LinkedIn",
+               "type": "url",
+               "url": "https://www.linkedin.com/feed/"
+            } ],
+            "date_added": "13388445391449364",
+            "date_last_used": "0",
+            "date_modified": "13388790392456651",
+            "guid": "2edabafd-a0d7-4262-bf6d-2d77db567053",
+            "id": "371",
+            "name": "Recherche Job",
+            "type": "folder"
+         }, {
+            "date_added": "13387334425083625",
+            "date_last_used": "13389983807643607",
+            "guid": "19a76c4b-4321-4eaa-9824-29dda27c881b",
+            "id": "353",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Proton Mail",
+            "type": "url",
+            "url": "https://mail.proton.me/u/0/inbox"
+         } ],
+         "date_added": "13383748334375993",
+         "date_last_used": "0",
+         "date_modified": "13389984295325356",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favoris",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13388181978623508",
+               "date_last_used": "13388355784817203",
+               "guid": "75e3c81c-3c58-4112-8d09-ad4667edee25",
+               "id": "359",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Développeur Fullstack .NET/ANGULAR (H/F) – Davidson",
+               "type": "url",
+               "url": "https://www.davidson.fr/nos-offres/developpeur-fullstack-net-angular-h-f"
+            }, {
+               "date_added": "13388182042226911",
+               "date_last_used": "13388355784468575",
+               "guid": "fb45d000-fe84-4ce7-892b-b64a7da29b02",
+               "id": "360",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Développeur Full Stack - SMACL Assurances F/H in Niort | MAIF",
+               "type": "url",
+               "url": "https://tietalent.com/en/jobs/p-1165887/niort-developpeur-full-stack-smacl-assurances-fh"
+            }, {
+               "date_added": "13388182676346937",
+               "date_last_used": "13388355786795942",
+               "guid": "4e1be4c0-84c0-4f20-9d10-62ff7664a790",
+               "id": "365",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "MAIF - Développeur Full Stack - SMACL Assurances F/H",
+               "type": "url",
+               "url": "https://recrutement.maif.fr/offre-de-emploi/emploi-developpeur-full-stack-smacl-assurances-f-h_8218.aspx?src=LinkedIn"
+            }, {
+               "date_added": "13388164184887860",
+               "date_last_used": "13388445363434510",
+               "guid": "d9c3f80c-0729-4ea1-abde-2d04d6247812",
+               "id": "355",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "2025-195452 | La Poste Recrute",
+               "type": "url",
+               "url": "https://www.laposterecrute.fr/offre/2025-195452"
+            } ],
+            "date_added": "13388351464404284",
+            "date_last_used": "0",
+            "date_modified": "13388790377645838",
+            "guid": "1700d916-bedc-4fe5-9269-1e4e579debbc",
+            "id": "369",
+            "name": "Fait",
+            "type": "folder"
+         }, {
+            "date_added": "13388182173490363",
+            "date_last_used": "13388763896933217",
+            "guid": "8ad23409-6d1c-4691-8629-f1398a495abc",
+            "id": "361",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kicklox",
+            "type": "url",
+            "url": "https://app.kicklox.com/missions/5b06df6a-62fd-41f7-b22a-869c4228aacf?&partner=linkedin"
+         }, {
+            "date_added": "13388182180071629",
+            "date_last_used": "13388763897978606",
+            "guid": "7ab5f084-b6af-4789-b85e-d393f4870e5d",
+            "id": "362",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Careers | CGI.com",
+            "type": "url",
+            "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0924-1848&BRID=1157388&SBDID=943"
+         }, {
+            "date_added": "13388182388731401",
+            "date_last_used": "13388763898173111",
+            "guid": "79118ec0-4622-41d2-92fc-c7cc0ea0baf9",
+            "id": "363",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kicklox",
+            "type": "url",
+            "url": "https://app.kicklox.com/missions/4875931f-7a84-4108-9a9d-9653948998c2?&partner=linkedin"
+         }, {
+            "date_added": "13388182417067699",
+            "date_last_used": "13388763899005229",
+            "guid": "54525b06-6d55-483c-bbf7-13041173f4a2",
+            "id": "364",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Extia | Développeur Java Junior H/F",
+            "type": "url",
+            "url": "https://www.extia-group.com/join-us/developpeur-java-junior-h-f-1"
+         }, {
+            "date_added": "13388182682562997",
+            "date_last_used": "13388349088368536",
+            "guid": "73e03374-11e2-4837-8ff9-b8b51b1cbd44",
+            "id": "366",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Ingénieur d’études et développement C# (H/F) - Infotel",
+            "type": "url",
+            "url": "https://infotel.com/nos-offres/ingenieur-detudes-et-developpement-c-h-f-2"
+         }, {
+            "date_added": "13388182769524523",
+            "date_last_used": "0",
+            "guid": "d30edef0-a819-4804-a010-6e304989ed79",
+            "id": "367",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mon Volontariat International : site officiel du V.I.E | V.I.A",
+            "type": "url",
+            "url": "https://mon-vie-via.businessfrance.fr/"
+         }, {
+            "date_added": "13388703636398486",
+            "date_last_used": "0",
+            "guid": "4e98b1cd-da73-4b1d-8874-3b36d772a118",
+            "id": "377",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Annonce Emploi CDI Développeur C/c++ La Rochelle (17000) - Expectra Recrute en CDI | Meteojob.com",
+            "type": "url",
+            "url": "https://www.meteojob.com/jobs/44900648?utm_source=apec&utm_medium=aggregator-free"
+         }, {
+            "date_added": "13388703819082094",
+            "date_last_used": "13389121964933951",
+            "guid": "149b62a8-fadf-48fe-8c84-10b2d4f35f33",
+            "id": "378",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Analyste Développeur C# - Instruction de Crédits F/H | Apec",
+            "type": "url",
+            "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/176175616W?motsCles=d%C3%A9veloppeur%20c%23%20.net&niveauxExperience=101881&lieux=17&lieux=56&lieux=717&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=13&page=0"
+         }, {
+            "date_added": "13388790392456651",
+            "date_last_used": "0",
+            "guid": "af3bbe1f-f4be-40a3-bedf-30364374b6c8",
+            "id": "381",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Analyste Développeur Web Confirmé - Outils Collaboratifs (H/F)",
+            "type": "url",
+            "url": "https://www.e-i.com/fr/nos-offres/offre.html?annonce=89962"
+         }, {
+            "date_added": "13388790469771537",
+            "date_last_used": "0",
+            "guid": "af13355d-5746-46a4-af92-a75294d38b70",
+            "id": "382",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Analyste - développeur sirh web (H/F)",
+            "type": "url",
+            "url": "https://www.e-i.com/fr/nos-offres/offre.html?annonce=50763"
+         }, {
+            "date_added": "13388790527238480",
+            "date_last_used": "0",
+            "guid": "c67a71ad-1e38-4bde-af6b-4a00a7abc164",
+            "id": "383",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Offre - Développeur fullstack H/F",
+            "type": "url",
+            "url": "https://www.talents-handicap.com/478-inetum/40430-developpeur-fullstack-h-f-14?src=MeteoJobs"
+         }, {
+            "date_added": "13388791748786759",
+            "date_last_used": "0",
+            "guid": "efac898e-04e7-4b81-b53d-c878b79d929d",
+            "id": "384",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Développeur .NET H/F - La Rochelle (17) - Indeed.com",
+            "type": "url",
+            "url": "https://fr.indeed.com/job/d%C3%A9veloppeur-net-hf-672d9d77142c71e8?from=poleemploi"
+         }, {
+            "date_added": "13388791789888980",
+            "date_last_used": "0",
+            "guid": "7f3bf5a4-5d61-4553-965e-070f3d3ff040",
+            "id": "385",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Developpeur Mobile Flutter - Beetween",
+            "type": "url",
+            "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/lo898qyz2f8/developpeur-mobile-flutter"
+         }, {
+            "date_added": "13388791922028061",
+            "date_last_used": "0",
+            "guid": "c8f6bd58-c484-475d-82e1-8cdaad1f02dd",
+            "id": "386",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Annonce Emploi CDI Développeur Back end Niort (79000) - MAIF Recrute en CDI | Meteojob.com",
+            "type": "url",
+            "url": "https://www.meteojob.com/jobs/44957275?utm_source=pole-emploi&utm_medium=aggregator-free"
+         }, {
+            "date_added": "13389116825916980",
+            "date_last_used": "0",
+            "guid": "58ef1701-df3d-4a7d-83f1-0e39bff15b94",
+            "id": "394",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DEVELOPPEUR BACK-END JAVA (H/F)",
+            "type": "url",
+            "url": "https://evoyageurs.wd3.myworkdayjobs.com/fr-FR/jobs/job/Saint-Denis-Campus-SNCF-Voyageurs/DEVELOPPEUR-BACK-END-JAVA--H-F-_R2506-3?source=HelloWork"
+         } ],
+         "date_added": "13383748334375994",
+         "date_last_used": "0",
+         "date_modified": "13389188180865427",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13383748334375995",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris d'appareils mobiles",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
