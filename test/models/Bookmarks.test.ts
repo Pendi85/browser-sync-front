@@ -1,6 +1,5 @@
 import * as fs from 'fs';
 import Bookmarks from '../../src/models/Bookmarks';
-import BookmarkItem from '../../src/models/BookmarkItem';
 
 
 jest.mock('fs');
@@ -55,7 +54,7 @@ describe('init', () => {
         (fs.readFileSync as jest.Mock).mockReturnValue(mockData);
 
         const bookmarks = new Bookmarks(mockFilePath);
-        const result = bookmarks.init(mockFilePath);
+        const result = bookmarks.maj(mockFilePath);
 
         expect(result).toBe(true);
         expect(bookmarks.items).toHaveLength(1);
@@ -73,7 +72,7 @@ describe('init', () => {
         });
 
         const bookmarks = new Bookmarks(mockFilePath);
-        const result = bookmarks.init(mockFilePath);
+        const result = bookmarks.maj(mockFilePath);
 
         expect(result).toBe(false);
         expect(bookmarks.items).toEqual([]);
@@ -85,7 +84,7 @@ describe('init', () => {
         (fs.readFileSync as jest.Mock).mockReturnValue(invalidJSON);
 
         const bookmarks = new Bookmarks(mockFilePath);
-        const result = bookmarks.init(mockFilePath);
+        const result = bookmarks.maj(mockFilePath);
 
         expect(result).toBe(false);
         expect(bookmarks.items).toEqual([]);

@@ -1,20 +1,21 @@
 import * as fs from 'fs';
 import BookmarkItem from './BookmarkItem';
+import { resolve } from 'path';
 
 class Bookmarks {
-    filename!: string; // Property to hold the filename
+    filepath!: string; // Property to hold the filename
     items: BookmarkItem[];
     
     constructor(filename: string) {
-        this.filename = filename; // Initialize filename
+        this.filepath = filename; // Initialize filename
         this.items = [];
     }
 
-    init(filename: string) : boolean {
+    maj(filepath: string) : boolean {
         let isInitialized = false; // Flag to check if initialization was successful
 
         try {
-            const data = fs.readFileSync(filename, 'utf-8'); // Read file content
+            const data = fs.readFileSync(filepath, 'utf-8'); // Read file content
             const jsonData = JSON.parse(data);
             console.log(jsonData);
             this.items = jsonData.roots.bookmark_bar.children.map((child: any) => new BookmarkItem(child));
@@ -26,8 +27,19 @@ class Bookmarks {
         return isInitialized;
     }
 
-    delete() : boolean {
-        return false;
+    delete(): Promise<boolean> {
+        return new Promise<boolean>((resolve) => {
+            fs.rm(this.filepath, (err) => {
+                if (err) {
+                    resolve(false)
+                    console.error(`Error removing bookmarks file : ${err}`);
+                }
+                else {
+                    this.items = [];
+                    resolve(true);
+                }
+            });
+        });
     }
 }
 
