@@ -1,0 +1,49 @@
+{
+   "checksum": "46252e8c17b186608dcc37778a06fb16",
+   "roots": {
+      "bookmark_bar": {
+         "children": [
+            {
+               "children": [
+                  {
+                     "date_added": "13339894691000000",
+                     "date_last_used": "13389902368926940",
+                     "guid": "33f6c809-cae9-4797-bb1c-c12cb488265a",
+                     "id": "6",
+                     "name": "Gmail",
+                     "type": "url",
+                     "url": "https://mail.google.com/mail/u/0/?hl=fr#inbox"
+                  },
+                  {
+                     "date_added": "13340471764000000",
+                     "date_last_used": "13389284060422659",
+                     "guid": "e38ef43d-6941-41bc-9d4e-2e9879ecb8cf",
+                     "id": "9",
+                     "name": "Google",
+                     "type": "url",
+                     "url": "https://www.google.com/"
+                  }
+               ],
+               "date_added": "13383748412461121",
+               "date_last_used": "0",
+               "date_modified": "13389871910736995",
+               "guid": "b0be6add-68cc-43c4-a043-c31d907f6f2c",
+               "id": "5",
+               "name": "Google",
+               "type": "folder"
+            }
+         ]
+      },
+      "synced": {
+         "children": [],
+         "date_added": "13383748334375995",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris d'appareils mobiles",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

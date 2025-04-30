@@ -1,0 +1,114 @@
+{
+   "checksum": "46252e8c17b186608dcc37778a06fb16",
+   "roots": {
+      "bookmark_bar": {
+         "children": [
+            {
+               "children": [
+                  {
+                     "date_added": "13339894691000000",
+                     "date_last_used": "13389902368926940",
+                     "guid": "33f6c809-cae9-4797-bb1c-c12cb488265a",
+                     "id": "6",
+                     "name": "Gmail",
+                     "type": "url",
+                     "url": "https://mail.google.com/mail/u/0/?hl=fr#inbox"
+                  },
+                  {
+                     "date_added": "13339894817000000",
+                     "date_last_used": "13388350988357341",
+                     "guid": "4ca744f1-5523-4d0c-b449-d3b9bcda07b5",
+                     "id": "7",
+                     "name": "Google Maps",
+                     "type": "url",
+                     "url": "https://www.google.com/maps/@46.9068627,-1.1419814,15z?authuser=0&entry=ttu"
+                  },
+                  {
+                     "date_added": "13339894823000000",
+                     "date_last_used": "13386694021119203",
+                     "guid": "3a7cccef-e22b-4d2a-a543-b5f2b72e92e4",
+                     "id": "8",
+                     "name": "Google Drive",
+                     "type": "url",
+                     "url": "https://drive.google.com/drive/my-drive"
+                  },
+                  {
+                     "date_added": "13360108429000000",
+                     "date_last_used": "13389994407462995",
+                     "guid": "c51c88a8-88a4-46a6-a535-77b49d2081cc",
+                     "id": "10",
+                     "name": "API et services – API et services – MSPR DATA RAW FILES – Console Google Cloud",
+                     "type": "url",
+                     "url": "https://console.cloud.google.com/apis/dashboard?pli=1&project=mspr-data-raw-files"
+                  }
+               ],
+               "date_added": "13383748412461121",
+               "date_last_used": "0",
+               "date_modified": "13389871910736995",
+               "guid": "b0be6add-68cc-43c4-a043-c31d907f6f2c",
+               "id": "5",
+               "name": "Google",
+               "type": "folder"
+            },
+            {
+               "children": [
+                  {
+                     "date_added": "13338297847000000",
+                     "date_last_used": "13389902694378581",
+                     "guid": "6bdb3833-6136-4ce1-a44e-64b8c099a590",
+                     "id": "14",
+                     "name": "Crunchyroll",
+                     "type": "url",
+                     "url": "https://www.crunchyroll.com/fr"
+                  },
+                  {
+                     "date_added": "13329242018000000",
+                     "date_last_used": "13389956971940262",
+                     "guid": "ae748a79-019e-49d0-a60b-389111c699c1",
+                     "id": "15",
+                     "name": "Scan",
+                     "type": "url",
+                     "url": "https://fmteam.fr/"
+                  },
+                  {
+                     "date_added": "13264549281000000",
+                     "date_last_used": "13389706610981930",
+                     "guid": "17aa2a4c-cd39-4e27-bb80-e17fb32dbd47",
+                     "id": "16",
+                     "name": "ADN | Anime streaming en VOSTFR et VF",
+                     "type": "url",
+                     "url": "https://animedigitalnetwork.fr/video/?distribution=free"
+                  },
+                  {
+                     "date_added": "13360721743000000",
+                     "date_last_used": "13388433400556159",
+                     "guid": "b8d09339-43e6-4588-83bc-c5240d0a6fc6",
+                     "id": "17",
+                     "name": "Netflix",
+                     "type": "url",
+                     "url": "https://www.netflix.com/browse"
+                  }
+               ],
+               "date_added": "13383748412461290",
+               "date_last_used": "0",
+               "date_modified": "13386335238638997",
+               "guid": "f0e92edb-2195-40b3-90e5-91f081accc25",
+               "id": "11",
+               "name": "Divertissement",
+               "type": "folder"
+            }
+         ]
+      },
+      "synced": {
+         "children": [],
+         "date_added": "13383748334375995",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris d'appareils mobiles",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
