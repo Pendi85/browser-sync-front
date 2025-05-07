@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -52,23 +57,52 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+input {
+  background: #1e1e1e;
+  color: #c6c6c6;
+  border: 2px solid #383838;
+  border-radius: 5px;
+  
+  font-size: 1.2rem;
+  padding: 10px 25px;
+}
+
+input::placeholder {
+  color: #383838;
+  font-weight: bold;
+}
+
+
+/**
+CUSTOM CLASSES
+**/
+
 .container {
   display: flex;
   flex-direction: column;
   align-items: stretch;
 }
 
-/**
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+.link {
+  background: none;
+  padding: 0;
+  border: none;
 }
-**/
+.link:hover {
+  color: #ec9d35;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  gap: 5px;
+}
+
+.input-group .error {
+  color: #c6c6c6;
+  font-weight: 500;
+  display: none;
+  font-size: 1rem;
+  margin-left: 5px;
+}
