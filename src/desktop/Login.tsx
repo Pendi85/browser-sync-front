@@ -1,8 +1,6 @@
 import InputGroup from '../components/forms/InputGroup/InputGroup.tsx';
 import SocialConnectors from '../components/forms/SocialConnectors/SocialConnectors.tsx';
 
-import './Login.css';
-
 function Login() {
     return (
         <>
