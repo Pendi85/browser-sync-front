@@ -1,0 +1,32 @@
+.bookmarkFileItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: #1e1e1e;
+
+    border: #383838 solid 3px;
+    border-radius: 5px;
+}
+
+.bookmarkFileItem span img {
+    height: 50px;
+    background-color: none;
+}
+
+.bookmarkFileItem span {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    flex: 1;
+}
+
+.bookmarkFileItem div:last-child {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.8rem;
+}
+.bookmarkFileItem .icon-button {
+    padding: 10px 0px 10px 10px;
+}
