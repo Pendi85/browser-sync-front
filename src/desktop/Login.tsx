@@ -1,34 +1,23 @@
-import './Login.css'
-import { ReactSVG } from 'react-svg';
-import wallet from '../assets/wallet.svg'
-import google from '../assets/google.svg'
-import apple from '../assets/apple.svg'
+import InputGroup from '../components/forms/InputGroup/InputGroup.tsx';
+import SocialConnectors from '../components/forms/SocialConnectors/SocialConnectors.tsx';
+
+import './Login.css';
 
 function Login() {
     return (
         <>
-            <div className="container">
+            <div className="container fill-space vCenter stretch" style={{gap: 40, maxWidth: 600, alignSelf: "center"}}>
                 <h1>Login to your account</h1>
                 <form>
-                    <div className="input-group">
-                        <input type="text" placeholder="Mail Address" />
-                        <span className="error">Username is required</span>
-                    </div>
-                    <div className="input-group">
-                        <input type="password" placeholder="Password" />
-                        <span className="error">Password is required</span>
-                    </div>
-                    <button type="submit">Submit</button>
+                    <InputGroup placeholder="Enter your email" error="Email is required" />
+                    <InputGroup type="password" placeholder="Enter your password" error="Password is required" />
+                    <button type="submit" style={{alignSelf: "center"}}>Submit</button>
                     <div>
                         <p>Don't have an account? <a className='link' href="/register">Register</a></p>
                         <p>Forgot your password? <a className='link' href="/reset">Reset it</a></p>
                     </div>
+                    <SocialConnectors />
                 </form>
-                <div className="social-login">
-                    <button className="wallet"><img src={wallet} alt="Wallet logo" /></button>
-                    <button className="google"><img src={google} alt="Google logo" /></button>
-                    <button className="apple"><img src={apple} alt="Apple logo" /></button>
-                </div>
             </div>
         </>
     )

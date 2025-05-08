@@ -1,4 +1,4 @@
-import React from 'react';
+import './InputGroup.css';
 
 function InputGroup(props : any) {
     return (

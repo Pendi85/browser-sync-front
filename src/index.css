@@ -18,20 +18,17 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-body {
-  margin: 0;
-  min-width: 320px;
-  min-height: 100vh;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  text-align: center;
 }
+
+p {
+  color: #cecece;
+}
+
+/** BUTTONS **/
 
 a, button {
   font-size: 1em;
@@ -43,6 +40,7 @@ a, button {
   color: white;
   border-radius: 5px;
   border: 2px solid transparent;
+  text-align: center;
 
   cursor: pointer;
   transition: border-color 0.25s;
@@ -55,6 +53,14 @@ a:focus-visible,
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
+}
+
+/** FORMS **/
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 input {
@@ -70,39 +76,4 @@ input {
 input::placeholder {
   color: #383838;
   font-weight: bold;
-}
-
-
-/**
-CUSTOM CLASSES
-**/
-
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-}
-
-.link {
-  background: none;
-  padding: 0;
-  border: none;
-}
-.link:hover {
-  color: #ec9d35;
-}
-
-.input-group {
-  display: flex;
-  flex-direction: column;
-  text-align: left;
-  gap: 5px;
-}
-
-.input-group .error {
-  color: #c6c6c6;
-  font-weight: 500;
-  display: none;
-  font-size: 1rem;
-  margin-left: 5px;
 }

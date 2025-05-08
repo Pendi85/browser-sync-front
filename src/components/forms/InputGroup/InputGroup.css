@@ -1,0 +1,18 @@
+.input-group {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 5px;
+}
+
+.input-group .error {
+    color: #c6c6c6;
+    font-weight: 500;
+    display: none;
+    font-size: 1rem;
+    margin-left: 5px;
+}
+
+.input-group .error.show {
+    display: block;
+}
