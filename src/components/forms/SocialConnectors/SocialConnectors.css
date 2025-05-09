@@ -1,0 +1,28 @@
+.social-login {
+    display: flex;
+    gap: 20px;
+    align-self: center;
+}
+
+.social-login button {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    padding: 0;
+    background-color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-login img {
+    height: 70%;
+    width: 70%;
+    transition: height 0.25s;
+}
+
+.social-login button:hover div {
+    height: 65%;
+    width: 65%;
+}

@@ -1,0 +1,13 @@
+.icon-button {
+    background: none;
+    border: none;
+}
+
+.icon-button:hover, .icon-button:focus {
+    border: none;
+}
+
+.icon-button img {
+    height: 20px;
+    width: 100%;
+}
